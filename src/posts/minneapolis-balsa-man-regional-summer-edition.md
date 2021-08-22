@@ -1,6 +1,7 @@
 ---
 title: "Minneapolis Balsa Man Regional (Summer Edition)"
 date: 2010-08-18
+excerpt: The twin cities has so much enthusiasm for all that is tiny that it can't be contained by merely having one Balsa Regional! ! Now you may remember that Cali "Starfive" Mansty lead Paul Balsa Bunyan Man Regional in Minneapolis last February coinciding with the amazing Tiny Shantyart project.
 categories: 
   - "balsa-regionals"
 tags: 

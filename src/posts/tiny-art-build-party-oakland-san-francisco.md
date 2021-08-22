@@ -1,6 +1,7 @@
 ---
 title: "Tiny Art Build Party: Oakland & San Francisco"
 date: 2009-08-25
+excerpt: The first tiny art build party was such a success with so much tiny creative spirit that we have decided to do two more this weekend One in **Oakland on Saturday Aug 29th from noon to 7pm** and another in **San Francisco on Sunday Aug 30th from noon to 7pm**.
 categories: 
   - "balsa-events"
 tags: 
@@ -9,7 +10,7 @@ tags:
   - "tiny-art"
 ---
 
-[![](/images/3846893558_e553b0d5b1.jpg "Balsa remains")](http://www.flickr.com/photos/headlouse/3846893558/in/set-72157622113746470/)The first tiny art build party was such a success with so much tiny creative spirit that we have decided to do two more this weekend: One in **Oakland on Saturday Aug 29th from noon to 7pm** and another in **San Francisco on Sunday Aug 30th from noon to 7pm**.
+[![](/images/3846893558_e553b0d5b1.jpg "Balsa remains")](http://www.flickr.com/photos/headlouse/3846893558/in/set-72157622113746470/) The first tiny art build party was such a success with so much tiny creative spirit that we have decided to do two more this weekend: One in **Oakland on Saturday Aug 29th from noon to 7pm** and another in **San Francisco on Sunday Aug 30th from noon to 7pm**.
 
 _This party is open to tiny artist going to either Balsa Man or the [Balsa Man Regional in Black Rock Desert](http://balsaman.org/2009/08/balsa-man-comes-to-the-black-rock-desert/), NV._
 

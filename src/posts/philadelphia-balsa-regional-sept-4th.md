@@ -1,6 +1,7 @@
 ---
 title: "Philadelphia Balsa Regional, Sept 4th"
 date: 2010-07-28
+excerpt: Balsa Man is having it's first East Coast Regional in Philadelphia! The city of brotherly love will have it's very own **Philly Balsa Man Regional Burn on Sept 4th**!
 categories: 
   - "balsa-regionals"
 tags: 
@@ -31,7 +32,7 @@ Also, Andrzej will be hosting a **Balsa Man Philly Regional gathering and Tiny 
 
 August 6th is also the First Friday (of the month) open gallery night on the [Frankford Ave Art Coorridor](http://frankfordavearts.org/) so it's a good opportunity for people to meet and collaborate on making tiny art for Philly Balsa Man as well as meet for other art projects.
 
-\[caption id="attachment\_1286" align="alignleft" width="201" caption="Andrzej "Yeti" Bejnar"\][![Andrzej "Yeti" Bejnar, Philly Balsa Regional Lead](/images/n1662153169_154839_8243834.jpg "Andrzej "Yeti" Bejnar, Philly Balsa Regional Lead")](http://www.facebook.com/profile.php?id=1662153169)\[/caption\]
+[![Andrzej "Yeti" Bejnar, Philly Balsa Regional Lead](/images/n1662153169_154839_8243834.jpg "Andrzej "Yeti" Bejnar, Philly Balsa Regional Lead")](http://www.facebook.com/profile.php?id=1662153169)
 
 Other build events are also being planned at coffee shops like [Higher Grounds Cafe](http://www.highergroundscafe.com/) (Psst, hey Andrzej I hear [coffee stirrers make great art materials](http://www.flickr.com/photos/mikest/3901010095/in/pool-1215242@N23/)!) and other local art centers.
 

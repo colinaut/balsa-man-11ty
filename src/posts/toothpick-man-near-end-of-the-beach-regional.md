@@ -15,7 +15,7 @@ The BPAF has just received this marvelous little grant request and regional prop
 > 
 > **Keith Schon**
 > 
-> \[caption id="" align="alignright" width="159" caption="Toothpicks, photo by Svenneman"\][![Toothpicks, photo by Svenneman](/images/4493820637_dd24d39ed7.jpg "Toothpicks, photo by Svenneman")](http://www.flickr.com/photos/s7nn3/4493820637/)\[/caption\]
+> [![Toothpicks, photo by Svenneman](/images/4493820637_dd24d39ed7.jpg "Toothpicks, photo by Svenneman")](http://www.flickr.com/photos/s7nn3/4493820637/)
 > 
 > I had a lot of fun last year participating in Balsa Man: volunteering at the Cafe, driving my RC art car around.  But the fact of the matter is, hauling all that stuff all the way to the far end of the beach is a pain in the ass.  It takes a lot of time, preparation, and endurance.  And all the "coping" — sand in my shoes, trying hard to find people… geeze!  I can't do that every year.
 > 

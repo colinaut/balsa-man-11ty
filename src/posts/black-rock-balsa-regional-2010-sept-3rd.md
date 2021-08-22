@@ -1,6 +1,7 @@
 ---
 title: "Black Rock Balsa Regional 2010, Sept 3rd"
 date: 2010-07-30
+excerpt: We are proud to announce that Steve Courtney has stepped up as this year's Black Rock Regional Lead! Steve and his desert pals have a small camp they call the Fandango Village where they have generously offered to host the Black Rock Balsa Man Regional.
 categories: 
   - "balsa-regionals"
 tags: 
@@ -9,7 +10,7 @@ tags:
   - "regional"
 ---
 
-\[caption id="attachment\_1405" align="alignright" width="173" caption="Steve Courtney, Regional Lead for Black Rock Balsa Man"\]![Steve Courtney, Black Rock Balsa Man Regional Lead](/images/steve-courtney.jpg "Steve Courtney, Black Rock Balsa Man Regional Lead")\[/caption\]
+![Steve Courtney, Black Rock Balsa Man Regional Lead](/images/steve-courtney.jpg "Steve Courtney, Black Rock Balsa Man Regional Lead")
 
 We are proud to announce that [Steve Courtney](http://twitter.com/malderor "Steve Courtney @malderor") has stepped up as this year's Black Rock Regional Lead! Steve and his desert pals have a small camp they call the **Fandango Village** where they have generously offered to host the Black Rock Balsa Man Regional:
 

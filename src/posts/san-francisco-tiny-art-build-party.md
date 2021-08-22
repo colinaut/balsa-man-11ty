@@ -1,6 +1,7 @@
 ---
 title: "San Francisco Tiny Art Build Party, Aug 22st"
 date: 2010-08-04
+excerpt: Lastly but certainly not leastly, San Francisco will have it's own Tiny Art Build party on Sunday Aug 22st from noon to 8pm. (_Note has been changed was originally the 21st_) The great Rick Abruzzo, master sausage chef, event organizer, and more, has offered to host the SF Tiny Art Party.
 categories: 
   - "tiny-art-build-party"
 tags: 
@@ -8,7 +9,7 @@ tags:
   - "san-francisco"
 ---
 
-\[caption id="" align="alignright" width="216" caption="Lanterns built for the Balsa Man 2009 base, photo by Colin"\][![Lanterns built for the Balsa Man 2009 base, photo by Colin](/images/3876910952_7ca9f39323.jpg "Lanterns built for the Balsa Man 2009 base, photo by Colin")](http://www.flickr.com/photos/headlouse/3876910952/in/pool-1215242@N23/)\[/caption\]
+[![Lanterns built for the Balsa Man 2009 base, photo by Colin](/images/3876910952_7ca9f39323.jpg "Lanterns built for the Balsa Man 2009 base, photo by Colin")](http://www.flickr.com/photos/headlouse/3876910952/in/pool-1215242@N23/)
 
 Lastly but certainly not leastly, San Francisco will have it's own Tiny Art Build party on **Sunday Aug 22st from noon to 8pm**. (_Note has been changed was originally the 21st_) The great [Rick Abruzzo](rickabruzzo), master sausage chef, event organizer, and more,  has offered to host the SF Tiny Art Party at **Chez Poulet, 3359 Cesar Chavez** (at Mission), San Francisco.
 

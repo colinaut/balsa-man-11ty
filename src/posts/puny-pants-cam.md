@@ -16,7 +16,7 @@ tags:
 
 We here at Balsa Man Headquarters (BMHQ) have been previously pondering about the potential problem for pantsless partyers and pontificating on proposing protocols to prohibit this practice. Luckily, **Puny Pants Posse**, aka **The Society of Pants for the Wee**, have come to the rescue. Here is their latest statement and grant request:
 
-\[caption id="attachment\_929" align="aligncenter" width="420" caption="Pants Are Necessary Things - Seriously!"\]![Pants Are Necessary Things - Seriously!](/images/PANTS.jpg)\[/caption\]
+![Pants Are Necessary Things - Seriously!](/images/PANTS.jpg)
 
 > We, the Citizens who think Pants Are Necessary Things, Seriously! (PANTS) are concerned that tiny-person nudity is an epidemic sweeping the nation, causing wanton licentiousness, suggestive hoopla, blindness, and a corruption of the morals of our most precious asset, the children! Some little people have been known to lie around for days, weeks, nay sometimes months completely naked! I shudder to think what sort of lascivious thoughts might come unbidden to the unformed and malleable mind of a child who unwittingly happens upon such an obscene display! With just a tiny **$2.69** donation for a tiny cause, you can ensure that such a scene will never mar the dignity and minuscule majesty that is Balsa Man! PANTS will fight tiny-person pantslessness with several specially-developed tools, including our PANTS Trebuchet and our PANTS Cannon, designed to render the pantsless incapable of exposing their hairless, bland crotches to the unguarded eyes of innocents. We will provide pants to any tiny-person without them, and will “convince” those who might be obstinate with the use of our arsenal.
 > 

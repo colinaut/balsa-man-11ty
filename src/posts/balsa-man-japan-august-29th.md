@@ -1,6 +1,7 @@
 ---
 title: "Balsa Man Japan, August 29th"
 date: 2010-07-28
+excerpt: Our Japanese counterparts have launched their own Balsa Man Japan website! Their regional burn will be happening on **August 29th at 5pm**. The location will be announced one week prior to the event on the 22nd.
 categories: 
   - "balsa-regionals"
 tags: 
@@ -10,7 +11,7 @@ tags:
   - "toyko"
 ---
 
-[![Balsa Man Japan](/images/Balsa-Man-Japan2.png "Balsa Man Japan")](http://balsaman.org/wp-content/uploads/2010/07/Balsa-Man-Japan2.png)Our Japanese counterparts have launched their own [Balsa Man Japan](http://www.burninja.info/balsaman/index.htm) website! Their regional burn will be happening on **August 29th at 5pm**. The location will be announced one week prior to the event on the 22nd.
+[![Balsa Man Japan](/images/Balsa-Man-Japan2.png "Balsa Man Japan")](http://balsaman.org/wp-content/uploads/2010/07/Balsa-Man-Japan2.png) Our Japanese counterparts have launched their own [Balsa Man Japan](http://www.burninja.info/balsaman/index.htm) website! Their regional burn will be happening on **August 29th at 5pm**. The location will be announced one week prior to the event on the 22nd.
 
 Tiny artists and DTW volunteers are asked to show up early for set up. The **Balsa Man Japan burns at sunset** with other tiny art burning shortly thereafter—balsa burns in a blink of an eye so be on time! Clean up will begin after all tiny art is burned (around 8pm). Balsa Man is a **Leave No Trace** event so please help the DTW with their clean up efforts.
 

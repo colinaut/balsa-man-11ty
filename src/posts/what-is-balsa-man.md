@@ -1,6 +1,7 @@
 ---
 title: "What is Balsa Man?"
 date: 2009-07-19
+excerpt: Last year was the first Balsa Man. It was a small, short, but nonetheless grand event. I don't know what I loved best between the adorable tiny trash fence, the Temple of Reduced Expectations, the bubblegum pink Buddha sculptures, the Diminutive Dance Dance Immolation, the Psychic Pizza Delivery, the Balsa Man Burn itself, or the joyous participation of all who came!
 categories: 
   - "balsaman"
 tags: 

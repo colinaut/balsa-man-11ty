@@ -1,6 +1,7 @@
 ---
 title: "San Francisco Tiny Art Build Party, Thursday Aug 18th"
 date: 2011-08-11
+excerpt: Are your Xactos sharp? Is your glue ready to stick? Got wood? Actually I don't care what your answer is come anyway, even if you only have an ounce of an idea and not a scrap of balsa. Supplies will be provided as will the creative spirit! You may walk away inspired or just have fun lending a hand to other tiny artists trying to realize their small dream.
 categories: 
   - "tiny-art-build-party"
 tags: 
@@ -8,7 +9,7 @@ tags:
   - "tiny-art"
 ---
 
-\[caption id="" align="alignleft" width="266" caption="Balsa Betty being built at the 2010 Tiny Art Party"\][![Balsa Betty being built at the 2010 Tiny Art Party](/images/4875695959_5d066e8082_b.jpg "Balsa Betty being built at the 2010 Tiny Art Party")](http://farm5.static.flickr.com/4138/4875695959_5d066e8082_b.jpg)\[/caption\]
+[![Balsa Betty being built at the 2010 Tiny Art Party](/images/4875695959_5d066e8082_b.jpg "Balsa Betty being built at the 2010 Tiny Art Party")](http://farm5.static.flickr.com/4138/4875695959_5d066e8082_b.jpg)
 
 Are your Xactos sharp? Is your glue ready to stick? Got wood?
 

@@ -16,12 +16,12 @@ Well Johnny, we are happy to announce that not only will there will be a temple 
 
 ## The Templini of Flux!
 
-\[caption id="attachment\_1527" align="aligncenter" width="304" caption="Templini of Flux (front)"\][![Templini of Flux (front)](/images/Templini_of_Flux-front.jpg "Templini of Flux (front)")](http://balsaman.org/wp-content/uploads/2010/08/Templini_of_Flux-front.jpg "Templini of Flux (front)")\[/caption\]
+[![Templini of Flux (front)](/images/Templini_of_Flux-front.jpg "Templini of Flux (front)")](http://balsaman.org/wp-content/uploads/2010/08/Templini_of_Flux-front.jpg "Templini of Flux (front)")
 
-\[caption id="attachment\_1528" align="aligncenter" width="447" caption="Templini of Flux (back)"\][![Templini of Flux (back)](/images/Templini_of_Flux-back.jpg "Templini of Flux (back)")](http://balsaman.org/wp-content/uploads/2010/08/Templini_of_Flux-back.jpg "Templini of Flux (back)")\[/caption\]
+[![Templini of Flux (back)](/images/Templini_of_Flux-back.jpg "Templini of Flux (back)")](http://balsaman.org/wp-content/uploads/2010/08/Templini_of_Flux-back.jpg "Templini of Flux (back)")
 
 The Black Pebble Arts Foundation has awarded the Templini of Flux the full amount requested, **$20, which is the largest grant we've handed out this year! The BPAF would like to support other star projects at this high amount but we won't be able to without your support. So please [donate today](http://balsaman.org/donate/) to support more of the tiny art you love and get your own [Balsa Man 2010 patch](http://balsaman.org/goods/#patch2010) and [sticker](http://balsaman.org/goods/#sticker2010)!**
 
 We are all truly excited and can't wait to see it standing proud on la playa. Construction has already begun on the Templini and you can see the detail and care going into it from this photo posted by J-Rad.
 
-\[caption id="attachment\_1547" align="aligncenter" width="410" caption="Templini under construction, by J-Rad"\][![Templini under construction, by J-Rad](/images/Templini.jpg "Templini under construction, by J-Rad")](http://balsaman.org/wp-content/uploads/2010/08/Templini.jpg "Templini under construction, by J-Rad")\[/caption\]
+[![Templini under construction, by J-Rad](/images/Templini.jpg "Templini under construction, by J-Rad")](http://balsaman.org/wp-content/uploads/2010/08/Templini.jpg "Templini under construction, by J-Rad")

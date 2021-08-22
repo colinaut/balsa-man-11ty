@@ -1,6 +1,7 @@
 ---
 title: "Tiny Shanty’s Tiny Fire Arts Festival – Minneapolis, MN"
 date: 2010-02-03
+excerpt: Celebrating all that is small, the Tiny Shanty Project will be hosting the first ever Tiny Fire Arts festival in Minneapolis, MN on the beautiful frozen Medicine Lake! The Tiny Festival will mark the end of the amazing Art Shanty Projects which the Tiny Shanty was apart. The Tiny Fire Arts Festival also marks what is the first of many Balsa Regionals to happen in 2010!
 categories: 
   - "balsa-regionals"
 tags: 
@@ -14,7 +15,7 @@ tags:
   - "tiny-shanty"
 ---
 
-[![Tiny Shanty sign](/images/4325785719_ff391ebfd7_b-e1265182368129.jpg "Tiny Shanty sign")](http://balsaman.org/wp-content/uploads/2010/02/4325785719_ff391ebfd7_b.jpg)Celebrating all that is small, the [**Tiny Shanty Project**](http://tinyshanty.wordpress.com) will be hosting the first ever Tiny Fire Arts festival in Minneapolis, MN on the beautiful frozen Medicine Lake! The Tiny Festival will mark the end of the amazing [Art Shanty Projects](http://www.artshantyprojects.org) which the Tiny Shanty was apart. The Tiny Fire Arts Festival also marks what is the first of many Balsa Regionals to happen in 2010!
+[![Tiny Shanty sign](/images/4325785719_ff391ebfd7_b-e1265182368129.jpg "Tiny Shanty sign")](http://balsaman.org/wp-content/uploads/2010/02/4325785719_ff391ebfd7_b.jpg) Celebrating all that is small, the [**Tiny Shanty Project**](http://tinyshanty.wordpress.com) will be hosting the first ever Tiny Fire Arts festival in Minneapolis, MN on the beautiful frozen Medicine Lake! The Tiny Festival will mark the end of the amazing [Art Shanty Projects](http://www.artshantyprojects.org) which the Tiny Shanty was apart. The Tiny Fire Arts Festival also marks what is the first of many Balsa Regionals to happen in 2010!
 
 ### [Tiny Shanty’s Tiny Fire Arts Festival](http://tinyshanty.wordpress.com/2010/02/02/tiny-shantys-tiny-fire-arts-festival/ "Permanent Link to "Tiny Shanty’s Tiny Fire Arts Festival"")
 

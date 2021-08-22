@@ -13,7 +13,7 @@ This morning our beloved Smallest, Colin Fahrion, said something to me that I fo
 
 This question snapped me out of an unproductive mindset—namely, that it's hard to be creative—and replaced it with a far more useful approach: turn the goddamn braincrank until your monkey mind poops out some art, then go get lunch.
 
-\[caption id="attachment\_1650" align="alignright" width="300" caption="They're all dead now. Fuck big art."\]![Easter Island moai](/images/iStock_000005789520XSmall-300x199.jpg)\[/caption\]
+![Easter Island moai](/images/iStock_000005789520XSmall-300x199.jpg)
 
 I am reminded of this brief essay: [The Cult of Done Manifesto](http://www.brepettis.com/blog/2009/3/3/the-cult-of-done-manifesto.html)
 

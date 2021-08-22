@@ -10,7 +10,7 @@ tags:
 
 The BPAF was just discussing the other day how Balsa Man needed to expand its art horizons and with the event growing it would behoove the event to curate some star attractions with more refined artistic sensibilities.
 
-\[caption id="attachment\_1499" align="alignright" width="174" caption="Distinguished artist and musician Fred Rinne"\][![Distinguished artist and musician Fred Rinne](/images/n714226191_1258561_2586-218x300.jpg "Distinguished artist and musician Fred Rinne")](http://balsaman.org/wp-content/uploads/2010/08/n714226191_1258561_2586.jpg)\[/caption\]
+[![Distinguished artist and musician Fred Rinne](/images/n714226191_1258561_2586-218x300.jpg "Distinguished artist and musician Fred Rinne")](http://balsaman.org/wp-content/uploads/2010/08/n714226191_1258561_2586.jpg)
 
 Lo and behold, what did we receive in the mail but a letter from the esteemed [stained glass artist](http://www.flickr.com/photos/41894173601@N01/4780453577/in/set-72157624465363116/) and distinguished [ducterido musician](http://www.flickr.com/photos/headlouse/4775078538/in/set-72157624447111820/) **Fred Rinne**. Opening the letter we found an art grant proposal for the **Balsa Man Opera,** a 10 (or 15) minute opera "vaguely relevant to Forging and Village themes!"
 

@@ -1,13 +1,14 @@
 ---
 title: "South SF Tiny Art Build Party, Aug 15th"
 date: 2010-08-03
+excerpt: We are happy to announce the South San Francisco Tiny Art Build party will be happening on Sunday Aug 15th from noon to 8pm. The wonderful Carol Sanders will be hosting at her place in South San Francisco (only a 10 minute walk from South SF BART or 5 minute drive from Caltrain).
 categories: 
   - "tiny-art-build-party"
 tags: 
   - "2010"
 ---
 
-\[caption id="" align="alignright" width="207" caption="Puny Porta Potty Construction, photo by Greg Bilke"\][![Puny Porta Potty Construction, photo by Greg Bilke](http://farm4.static.flickr.com/3422/3875897525_163c766140_z.jpg?zz=1 "Puny Porta Potty Construction, photo by Greg Bilke")](http://www.flickr.com/photos/sparxy/3875897525/in/pool-1215242@N23/)\[/caption\]
+[![Puny Porta Potty Construction, photo by Greg Bilke](http://farm4.static.flickr.com/3422/3875897525_163c766140_z.jpg?zz=1 "Puny Porta Potty Construction, photo by Greg Bilke")](http://www.flickr.com/photos/sparxy/3875897525/in/pool-1215242@N23/)
 
 We are happy to announce the South San Francisco Tiny Art Build party will be happening on Sunday Aug 15th from noon to 8pm. The wonderful Carol Sanders will be hosting at her place in South San Francisco (only a 10 minute walk from South SF BART or 5 minute drive from Caltrain). For exact directions please email [info@balsaman.org](mailto:info@balsaman.org) or RSVP to the [facebook invite](http://www.facebook.com/event.php?eid=148415001840588 "Tiny Art Build Party, South San Francisco, facebook invite").
 

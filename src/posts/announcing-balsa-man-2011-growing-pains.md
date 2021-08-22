@@ -1,6 +1,7 @@
 ---
 title: "Announcing Balsa Man 2011 \"Growing Pains\""
 date: 2011-06-30
+excerpt: The theme of Balsa Man 2011 is “Growing Pains”. This year we will focus on growth — it’s fits and starts, it’s pains and pleasures, it’s mistakes and triumphs that are the fuel of growth.
 categories: 
   - "balsaman"
 ---

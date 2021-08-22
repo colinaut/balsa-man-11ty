@@ -1,11 +1,12 @@
 ---
 title: "International Balsa!"
 date: 2011-08-13
+excerpt: Once again Balsa Man is being celebrated around the world! Both Balsa Man Japan and Balsa Blighty, the London Balsa Regional are on again after such a resounding joyful success they were last year!
 categories: 
   - "balsa-regionals"
 ---
 
-\[caption id="attachment\_1965" align="alignleft" width="227" caption="Balsa Man Japan at sunset, photo by cabcab"\][![Balsa Man Japan at sunset, photo by cabcab](/images/bm-japan.jpg "Balsa Man Japan at sunset, photo by cabcab")](http://balsaman.org/wp-content/uploads/2011/08/bm-japan.jpg)\[/caption\]
+[![Balsa Man Japan at sunset, photo by cabcab](/images/bm-japan.jpg "Balsa Man Japan at sunset, photo by cabcab")](http://balsaman.org/wp-content/uploads/2011/08/bm-japan.jpg)
 
 Once again Balsa Man is being celebrated around the world! Both Balsa Man Japan and Balsa Blighty, the London Balsa Regional are on again after such a resounding joyful success they were last year!
 

@@ -1,6 +1,7 @@
 ---
 title: "Balsa Blighty Update!"
 date: 2010-08-30
+excerpt: Balsa Blighty is 99% complete and we are putting on the finishing touches Sunday.  We've been hard at work cutting, swearing, gluing, drinking, sanding, and throwing our arms up in frustration... this last bit was when we found ourselves out of both glue and drink. Oh dear! We have powered through the difficult times and managed to get done without firing any volunteers or having any visits to medical professionals.
 categories: 
   - "balsa-regionals"
 tags: 
@@ -11,7 +12,7 @@ tags:
 
 _From Miss Cheeky herself…_
 
-\[caption id="" align="alignright" width="263" caption="Balsa Big Ben"\][![Balsa Big Ben](/images/4937342688_55116bf790.jpg "Balsa Big Ben")](http://www.flickr.com/photos/cheekypics/4936757979/in/set-72157624706305265/)\[/caption\]
+[![Balsa Big Ben](/images/4937342688_55116bf790.jpg "Balsa Big Ben")](http://www.flickr.com/photos/cheekypics/4936757979/in/set-72157624706305265/)
 
 [Balsa Big Ben](http://www.flickr.com/photos/cheekypics/sets/72157624706305265/with/4936757979/) is 99% complete and we are putting on the finishing touches Sunday.  We've been hard at work cutting, swearing, gluing, drinking, sanding, and throwing our arms up in frustration... this last bit was when we found ourselves out of both glue and drink. Oh dear! We have powered through the difficult times and managed to get done without firing any volunteers or having any visits to medical professionals.
 

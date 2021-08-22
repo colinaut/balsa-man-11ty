@@ -1,6 +1,7 @@
 ---
 title: "Teenystarter: Wee Fundraising"
 date: 2010-08-17
+excerpt: Announcing Teenystarter, wee fundraising for tiny artists! Tiny artists set a meager monetary goal and if they reach that goal they get to keep all the proceeds.
 categories: 
   - "bpaf"
   - "tiny-art-build-party"
@@ -10,7 +11,7 @@ tags:
   - "tiny-art"
 ---
 
-[![teenystarter, wee fundraising](/images/teenystarter.png "teenystarter, wee fundraising")](http://balsaman.org/wp-content/uploads/2010/08/teenystarter.png)Announcing Teenystarter, wee fundraising for tiny artists! Tiny artists set a meager monetary goal and if they reach that goal they get to keep all the proceeds.
+[![teenystarter, wee fundraising](/images/teenystarter.png "teenystarter, wee fundraising")](http://balsaman.org/wp-content/uploads/2010/08/teenystarter.png) Announcing Teenystarter, wee fundraising for tiny artists! Tiny artists set a meager monetary goal and if they reach that goal they get to keep all the proceeds.
 
 Due to the minute amounts of these goals, donations can only be made in person (either directly to the artist or to a BPAF representative). We are beginning this wonderful program with two Teenystarters:
 

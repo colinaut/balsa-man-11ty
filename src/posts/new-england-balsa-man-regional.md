@@ -1,6 +1,7 @@
 ---
 title: "New England Balsa Man Regional"
 date: 2011-08-10
+excerpt: The New England Black Rock Desert Camper Regional, Firefly, usually has a giant bug as the effigy, and this year somehow ended up with a woolly mammoth. In that spirit of change and growth, and in line with the "Growing Pains" theme of this year's Balsa Man, participants at the NE Balsa Man regional will burn a 2' effigy of a glowworm.
 categories: 
   - "balsa-regionals"
 tags: 

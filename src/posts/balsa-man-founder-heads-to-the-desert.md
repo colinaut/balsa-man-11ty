@@ -8,7 +8,7 @@ categories:
 
 The Black Rock Balsa Regional is the longest running Balsa Man regional event. For the past 3 years, an seasoned desert camper has lead the Regional as a small bit of entertainment for other (likely bored) desert campers out in the Black Rock Desert.
 
-\[caption id="attachment\_2167" align="alignright" width="221"\][![Colin at Balsa Man 2008 - photo by romzelino](/images/colin-v-man.jpg "Colin at Balsa Man 2008 - photo by romzelino")](http://www.flickr.com/photos/57588753@N00/2815784721/in/photostream/) Colin at Balsa Man 2008 - photo by romzelino\[/caption\]
+[![Colin at Balsa Man 2008 - photo by romzelino](/images/colin-v-man.jpg "Colin at Balsa Man 2008 - photo by romzelino")](http://www.flickr.com/photos/57588753@N00/2815784721/in/photostream/) Colin at Balsa Man 2008 - photo by romzelino
 
 This year, the Balsa Man founder, **Colin Fahrion**, has decided to head to the desert to see for himself what it's all about and to lead the Black Rock Regional himself. He will be traveling to the desert on Sunday and staying a few days to check it out before heading back to San Francisco for the Balsa Man main event.
 

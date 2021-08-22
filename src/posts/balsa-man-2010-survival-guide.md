@@ -1,13 +1,14 @@
 ---
 title: "Balsa Man 2010 Survival Guide"
 date: 2010-07-27
+excerpt: Our survival is your responsibility please make sure you read all of this survival guide and the Health & Safety section of the Terms & Conditions
 categories: 
   - "balsaman"
 tags: 
   - "2010"
 ---
 
-\[caption id="" align="alignright" width="230" caption="Wee Ranger, photo by Sandwichgirl"\][![Wee Ranger, photo by Sandwichgirl](/images/3892249410_bfdba8c8b3_z.jpg "Wee Ranger, photo by Sandwichgirl")](http://www.flickr.com/photos/sandwichgirl/3892249410/in/pool-1215242@N23/)\[/caption\]
+[![Wee Ranger, photo by Sandwichgirl](/images/3892249410_bfdba8c8b3_z.jpg "Wee Ranger, photo by Sandwichgirl")](http://www.flickr.com/photos/sandwichgirl/3892249410/in/pool-1215242@N23/)
 
 Your survival is your responsibility please make sure you read all of this survival guide and the Health & Safety section of the [Terms & Conditions](http://balsaman.org/terms-conditions/).
 

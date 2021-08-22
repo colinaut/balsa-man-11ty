@@ -14,9 +14,9 @@ The BPAF didn't really know what to make of this art project: **The Cafe That W
 
 Thus, the BPAF unanimously voted with a shrug\* to award QueGee a tiny art grant!
 
-\[caption id="attachment\_1531" align="aligncenter" width="480" caption="The Cafe That Wanted To Be Art (front)"\][![The Cafe That Wanted To Be Art (front)](/images/the_cafe_that_wanted_to_be_art-front.jpg "The Cafe That Wanted To Be Art (front)")](http://balsaman.org/wp-content/uploads/2010/08/the_cafe_that_wanted_to_be_art-front.jpg "The Cafe That Wanted To Be Art (front)")\[/caption\]
+[![The Cafe That Wanted To Be Art (front)](/images/the_cafe_that_wanted_to_be_art-front.jpg "The Cafe That Wanted To Be Art (front)")](http://balsaman.org/wp-content/uploads/2010/08/the_cafe_that_wanted_to_be_art-front.jpg "The Cafe That Wanted To Be Art (front)")
 
-\[caption id="attachment\_1532" align="aligncenter" width="480" caption="The Cafe That Wanted To Be Art (back)"\][![The Cafe That Wanted To Be Art (back)](/images/the_cafe_that_wanted_to_be_art-back.jpg "The Cafe That Wanted To Be Art (back)")](http://balsaman.org/wp-content/uploads/2010/08/the_cafe_that_wanted_to_be_art-back.jpg "The Cafe That Wanted To Be Art (back)")\[/caption\]
+[![The Cafe That Wanted To Be Art (back)](/images/the_cafe_that_wanted_to_be_art-back.jpg "The Cafe That Wanted To Be Art (back)")](http://balsaman.org/wp-content/uploads/2010/08/the_cafe_that_wanted_to_be_art-back.jpg "The Cafe That Wanted To Be Art (back)")
 
 \* The BPAF bylaws state that any vote with a shrug cannot be awarded a full grant; thus, we sent intern "hotpants" to check the price for QueGee's requested materials:
 

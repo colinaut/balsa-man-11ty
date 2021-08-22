@@ -1,6 +1,7 @@
 ---
 title: "Now Hiring: Black Rock Regional Lead"
 date: 2010-07-22
+excerpt: This year's Balsa Man is all about focusing on the community that is forged around tiny art. In so doing, we are pushing hard to promote the Balsa Regionals
 categories: 
   - "balsa-regionals"
 tags: 
@@ -9,7 +10,7 @@ tags:
   - "regional"
 ---
 
-[![Marshmallow roast, photo by artmonstergirl](/images/3902578684_615366da82.jpg "Marshmallow roast, photo by artmonstergirl")](http://www.flickr.com/photos/artmonstergirl/3902578684/in/pool-1189218@N24/)This year's Balsa Man is all about focusing on the community that is forged around tiny art. In so doing, we are pushing hard to promote the [Balsa Regionals](http://balsaman.org/category/balsa-regionals/) (like the [Paul Balsa Bunyan Man](http://balsaman.org/2010/02/tiny-shanty-burn-report/) in MN) that have begun to sprung up in other areas of the country. Last year, literally dozens of desert campers were thrilled by the [Black Rock Desert Balsa Regional](http://balsaman.org/2009/09/brd-balsa-regional-reports-success-fun/). This NV regional was lead by the talented [Kristen Ankiewicz](http://monsters.net/) who expressed how overjoyed the participants were to have something to do for the hour or so that it lasted, in the otherwise empty and dull Black Rock Desert.
+This year's Balsa Man is all about focusing on the community that is forged around tiny art. In so doing, we are pushing hard to promote the [Balsa Regionals](http://balsaman.org/category/balsa-regionals/) (like the [Paul Balsa Bunyan Man](http://balsaman.org/2010/02/tiny-shanty-burn-report/) in MN) that have begun to sprung up in other areas of the country. Last year, literally dozens of desert campers were thrilled by the [Black Rock Desert Balsa Regional](http://balsaman.org/2009/09/brd-balsa-regional-reports-success-fun/). This NV regional was lead by the talented [Kristen Ankiewicz](http://monsters.net/) who expressed how overjoyed the participants were to have something to do for the hour or so that it lasted, in the otherwise empty and dull Black Rock Desert.
 
 This year Kristen is stepping down as regional lead and we are looking to for some fabulous person to lead this year's Black Rock Balsa Regional!
 

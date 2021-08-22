@@ -19,7 +19,7 @@ _This party is open to tiny artist going to either Balsa Man or the [Balsa Man R
 
 **Sunday, August 8th from noon till 8pm Two blocks from Rockridge BART.** _Contact_ [_info@balsaman.org_](mailto:info@balsaman.org) _for exact location (same location as last year's Oakland Build Party)._ [facebook event page](http://www.facebook.com/event.php?eid=106006749455224&ref=mf)
 
-\[caption id="" align="aligncenter" width="457" caption="@likethegoddess paints tiny houses for her project House on Fire"\][![@likethegoddess paints tiny houses for her project House on Fire](/images/3876118157_f473302ffd_z.jpg "@likethegoddess paints tiny houses for her project House on Fire")](http://www.flickr.com/photos/headlouse/3876118157/in/set-72157622201733328/)\[/caption\]
+[![@likethegoddess paints tiny houses for her project House on Fire](/images/3876118157_f473302ffd_z.jpg "@likethegoddess paints tiny houses for her project House on Fire")](http://www.flickr.com/photos/headlouse/3876118157/in/set-72157622201733328/)
 
 ## Build Party FAQ
 

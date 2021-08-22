@@ -11,7 +11,7 @@ tags:
   - "counterfeit"
 ---
 
-\[caption id="attachment\_1574" align="alignleft" width="270" caption="Craigslist Counterfeit Balsa Man Ticket"\][![Craigslist Counterfeit Balsa Man Ticket](/images/3p53o23l65T45Z65S0a8a2a76b5b8da1e1cfc.jpg "Craigslist Counterfeit Balsa Man Ticket")](http://sfbay.craigslist.org/sfc/tix/1891887215.html)\[/caption\]
+[![Craigslist Counterfeit Balsa Man Ticket](/images/3p53o23l65T45Z65S0a8a2a76b5b8da1e1cfc.jpg "Craigslist Counterfeit Balsa Man Ticket")](http://sfbay.craigslist.org/sfc/tix/1891887215.html)
 
 Looks like our previous post about [counterfeit Balsa Man tickets](http://balsaman.org/2010/08/counterfeit-tickets/) don't reach out to enough people. We've unfortunately found [two](http://sfbay.craigslist.org/sfc/tix/1890393449.html) [people](http://sfbay.craigslist.org/sfc/wan/1884138769.html) on craigslist who didn't get the message and are looking for Balsa Man tickets.
 

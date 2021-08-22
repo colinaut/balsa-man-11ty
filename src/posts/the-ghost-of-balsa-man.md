@@ -13,6 +13,6 @@ We received the following digital tiny art grant request. While we of course pre
 > 
 > **achemical and baby bot**"
 
-\[caption id="attachment\_1822" align="aligncenter" width="432" caption="The Ghost of Balsa Man"\][![The Ghost of Balsa Man](/images/ghostsketch.jpg "The Ghost of Balsa Man")](http://balsaman.org/wp-content/uploads/2010/09/ghostsketch.jpg)\[/caption\]
+[![The Ghost of Balsa Man](/images/ghostsketch.jpg "The Ghost of Balsa Man")](http://balsaman.org/wp-content/uploads/2010/09/ghostsketch.jpg)
 
 One thing that worries us about this project is that the [world's supply of Helium is running out](http://www.youtube.com/watch?v=VN2-_5y_Vvw). But we overcame our worries—it is only a wafer thin amount of helium. Not knowing how much it costs to fill balloons, we decided to award a grant of **$8** to match the width of the project.

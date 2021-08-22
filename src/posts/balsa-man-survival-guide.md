@@ -1,6 +1,7 @@
 ---
 title: "Balsa Man Survival Guide"
 date: 2009-07-29
+excerpt: We encourage all to arrive by **6pm on Sept 5th** to view the tiny art and mingle with the other Balsa Man Participants—don't be late because Balsa Man is as short as it is tiny.
 categories: 
   - "balsaman"
 tags: 
@@ -9,7 +10,7 @@ tags:
   - "tamil"
 ---
 
-\[caption id="" align="alignright" width="259" caption="Participants Arrive at Balsa Man 2008 by ebisue"\][![DSCN0157](/images/2813440120_2ee7fae04f.jpg "Participants Arrive at Balsa Man 2008")](http://www.flickr.com/photos/ebisue88/2813440120/ "DSCN0157 by ebisue, on Flickr")\[/caption\]
+[![DSCN0157](/images/2813440120_2ee7fae04f.jpg "Participants Arrive at Balsa Man 2008")](http://www.flickr.com/photos/ebisue88/2813440120/ "DSCN0157 by ebisue, on Flickr")
 
 ## Arrival Information
 

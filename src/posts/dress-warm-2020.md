@@ -1,6 +1,7 @@
 ---
 title: "Dress Warm 2020"
 date: 2020-02-03
+excerpt: Dress Warm, Balsa Man's Favorite Alternative Weekly, came back as well in 2020 and produced a special edition with writers Niloc Noir, Adrian Roberts, and Malderdor!
 categories: 
   - "balsaman"
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Balsa Man is Back!"
 date: 2019-09-23
+excerpt: I, more than anyone, is surprised to be bringing Balsa Man back. The first Balsa Man in 2008 was done nearly on a whim, but I knew I had to do it again after seeing the smiles on everyone's faces in the meager light of the burning balsa.
 categories: 
   - "balsaman"
 ---

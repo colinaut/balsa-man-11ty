@@ -1,6 +1,7 @@
 ---
 title: "Balsa Man Black Rock Regional 2011"
 date: 2011-08-09
+excerpt: While everyone on Baker Beach is buttoning up their parkas and fumbling with their thermal underwear we'll throw our own Balsa Man in the Black Rock Desert!
 categories: 
   - "balsa-regionals"
 ---
@@ -13,7 +14,7 @@ I hear the beach can be chilly and there's sand everywhere and the whole place i
 
 While everyone on Baker Beach is buttoning up their parkas and fumbling with their thermal underwear we'll throw our own Balsa Man in the Black Rock Desert. Let's say, **5pm on Friday September 2nd** **at Costco Soulmate Trading Outlet**? It's a deal. You bring the tiny toothpick art and I'll bring the flamethrower. See you at Funeral and 8:45!
 
-\[caption id="attachment\_1909" align="alignleft" width="362" caption="Feral, 2011 BRC Balsa Man Regional Rep"\][![Feral, Manager of Costco Soulmate Trading Outlet and 2011 BRC Balsa Man Regional Rep (photo by Mella "hyperborea")](/images/kasey.jpg "Feral, Manager of Costco Soulmate Trading Outlet and 2011 BRC Balsa Man Regional Rep (photo by Mella "hyperborea")")](http://www.flickr.com/photos/hyperborea/5639292309/)\[/caption\]
+[![Feral, Manager of Costco Soulmate Trading Outlet and 2011 BRC Balsa Man Regional Rep (photo by Mella "hyperborea")](/images/kasey.jpg "Feral, Manager of Costco Soulmate Trading Outlet and 2011 BRC Balsa Man Regional Rep (photo by Mella "hyperborea")")](http://www.flickr.com/photos/hyperborea/5639292309/)
 
 _Yours in minutia,_
 

@@ -15,11 +15,11 @@ Do you have a digital camera and a penchant to want to show off your snaps? If s
 
 For inspiration, please consider what our lovely, talented friends did with [last year's Flickr group](http://balsaman.org/2009/07/what-is-balsa-man/).
 
-\[caption id="" align="alignleft" width="240" caption="Temple Construction"\][![Temple Construction](/images/3853438093_dec7407b63_m_d.jpg "Temple Construction")](http://www.flickr.com/photos/netdiva/3853438093/in/pool-1215242@N23)\[/caption\]
+[![Temple Construction](/images/3853438093_dec7407b63_m_d.jpg "Temple Construction")](http://www.flickr.com/photos/netdiva/3853438093/in/pool-1215242@N23)
 
 For example… there are recent additions up documenting [the Temple](http://balsaman.org/2009/08/the-temple-of-minor-irregularities/) Build. It's almost like being there!
 
-\[caption id="" align="alignright" width="180" caption="My Friend Flocka"\][![My Friend Flocka](/images/3844412476_2582842d15_m_d.jpg "My Friend Flocka")](http://www.flickr.com/photos/yatima/3844412476/in/pool-1215242@N23)\[/caption\]
+[![My Friend Flocka](/images/3844412476_2582842d15_m_d.jpg "My Friend Flocka")](http://www.flickr.com/photos/yatima/3844412476/in/pool-1215242@N23)
 
 Also, there is the wonderous, whimsical, widdle (okay, that's a stretch for an alliteration) version of [Flock](http://www.leonardo.info/gallery/burningman/christian.html)! You may remember seeing a large version of this project in the San Francisco Civic Center or possibly you saw it at an art festival somewhere. Well now you get to see it in miniature!
 

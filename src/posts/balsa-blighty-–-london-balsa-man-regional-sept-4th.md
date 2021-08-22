@@ -1,6 +1,7 @@
 ---
 title: "Balsa Blighty – London Balsa Man Regional, Sept 4th"
 date: 2010-07-27
+excerpt: Balsa Blighty is the first transatlantic Balsa Man regional in London, England. Lead by Miss Cheeky, Balsa Blightly aims to bring tiny art to the Big Smoke—giving Balsa Man a bit of British flavour!
 categories: 
   - "balsa-regionals"
 tags: 

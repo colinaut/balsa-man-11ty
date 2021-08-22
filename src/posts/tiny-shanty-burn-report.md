@@ -1,6 +1,7 @@
 ---
 title: "Tiny Shanty Burn Report from Minneapolis"
 date: 2010-02-09
+excerpt: Sunday marked the first annual **Tiny Shanty's Tiny Fire Arts Festival**! It was the first Balsa Regional of 2010 and the first ever Midwest Balsa Regional. The regional balsa burn also marked the closing of the magical Tiny Shanty and which was one of the star attractions at the Art Shanty Project, an art festival on the beautiful frozen Medicine Lake.
 categories: 
   - "balsa-regionals"
 tags: 
@@ -11,7 +12,7 @@ tags:
   - "tiny-shanty"
 ---
 
-\[caption id="attachment\_1074" align="alignright" width="273" caption="Don't Fuck with Paul Balsa Bunyan by Rubin Starset"\][![](/images/paul-balsa-bunyan.jpg "Don't Fuck with Paul Balsa Bunyan")](http://balsaman.org/wp-content/uploads/2010/02/paul-balsa-bunyan.jpg "Don't Fuck with Paul Balsa Bunyan by Rubin Starset")\[/caption\]
+[![](/images/paul-balsa-bunyan.jpg "Don't Fuck with Paul Balsa Bunyan")](http://balsaman.org/wp-content/uploads/2010/02/paul-balsa-bunyan.jpg "Don't Fuck with Paul Balsa Bunyan by Rubin Starset")
 
 Sunday marked the first annual **Tiny Shanty's Tiny Fire Arts Festival**! It was the first Balsa Regional of 2010 and the first ever Midwest Balsa Regional. The regional balsa burn also marked the closing of the magical [Tiny Shanty](http://tinyshanty.wordpress.com/) and which was one of the star attractions at the [Art Shanty Project](http://www.artshantyprojects.org/), an art festival on the beautiful frozen Medicine Lake.
 

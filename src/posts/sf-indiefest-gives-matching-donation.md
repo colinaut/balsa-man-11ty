@@ -1,6 +1,7 @@
 ---
 title: "SF Indie Fest gives $10 Matching Donation"
 date: 2009-07-21
+excerpt: Jeff Ross, founder and director of the SF Indie Fest, has promised a $10 matching donation to the Black Pebble Arts Foundation for the next donor who donates $10 or more! Remember donations are used to fund tiny art grants for our wonderful tiny artists.
 categories: 
   - "bpaf"
 tags: 
@@ -11,7 +12,7 @@ tags:
   - "sfindiefest"
 ---
 
-\[caption id="attachment\_128" align="alignright" width="175" caption="Jeff Ross at the SF Indie Fest (photo by Clody Cates)"\][![Jeff Ross at the SF Indie Fest (photo by Clody Cates)](/images/jeffross.jpg "Jeff Ross")](http://www.flickr.com/photos/clodycates/2295819031/)\[/caption\]
+[![Jeff Ross at the SF Indie Fest (photo by Clody Cates)](/images/jeffross.jpg "Jeff Ross")](http://www.flickr.com/photos/clodycates/2295819031/)
 
 Jeff Ross, founder and director of the [SF Indie Fest](http://www.sfindie.com/), has promised a $10 matching donation to the  [Black Pebble Arts Foundation](http://balsaman.org/donate/) for the next donor who donates $10 or more! Remember donations are used to fund [tiny art grants](http://balsaman.org/tiny-art-grants/) for our wonderful tiny artists.
 

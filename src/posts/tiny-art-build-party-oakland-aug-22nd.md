@@ -1,13 +1,14 @@
 ---
 title: "Tiny Art Build Party: Oakland, Aug 22nd"
 date: 2009-08-14
+excerpt: Get your pencils, x-actos, glue, wood, and most importantly your creative juices psyched for the first Tiny Art Build Party of the season.
 categories: 
   - "tiny-art-build-party"
 tags: 
   - "2009"
 ---
 
-[![](/images/2794332505_cd333a6764.jpg "Chopping Balsa")](http://www.flickr.com/photos/headlouse/2794332505/in/set-72157606916102462/)Get your pencils, x-actos, glue, wood, and most importantly your creative juices psyched for the first Tiny Art Build Party of the season.
+[![](/images/2794332505_cd333a6764.jpg "Chopping Balsa")](http://www.flickr.com/photos/headlouse/2794332505/in/set-72157606916102462/) Get your pencils, x-actos, glue, wood, and most importantly your creative juices psyched for the first Tiny Art Build Party of the season.
 
 _This party is open to tiny artist going to either Balsa Man or the [Balsa Man Regional in Black Rock Desert](http://balsaman.org/2009/08/balsa-man-comes-to-the-black-rock-desert/)__, NV._
 

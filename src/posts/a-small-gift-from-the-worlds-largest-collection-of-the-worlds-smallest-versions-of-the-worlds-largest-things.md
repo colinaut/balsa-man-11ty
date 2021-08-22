@@ -1,6 +1,7 @@
 ---
 title: "A small gift from the World’s Largest Collection of the World’s Smallest Versions of the World’s Largest Things!"
 date: 2009-08-08
+excerpt: If you're looking for a tiny replica of the World's Largest Can of Spinach, Carhenge, or Babe the Blue Ox, look no further than The World's Largest Collection of the World's Smallest Versions of the World's Largest Things!
 categories: 
   - "bpaf"
   - "tiny-inspiration"
@@ -15,7 +16,7 @@ tags:
   - "wlt"
 ---
 
-\[caption id="attachment\_381" align="alignright" width="219" caption="World's smallest version of Babe, the Blue Ox, photo © Erika Nelson"\][![World's smallest version of Babe, the Blue Ox](/images/WLT-babe.jpg)](http://www.flickr.com/photos/worldslargestthings/964381925/)\[/caption\]
+[![World's smallest version of Babe, the Blue Ox](/images/WLT-babe.jpg)](http://www.flickr.com/photos/worldslargestthings/964381925/)
 
 If you're looking for a tiny replica of the [World's Largest Can of Spinach](http://www.worldslargestthings.com/arkansas/spinachcan.htm), [Carhenge](http://www.worldslargestthings.com/mobilemuseum.htm), or [Babe the Blue Ox](http://www.worldslargestthings.com/minnesota/babe.htm), look no further than [The World's Largest Collection of the World's Smallest Versions of the World's Largest Things](http://www.worldslargestthings.com/index.htm) (WLCoWSVoWLT).
 
@@ -29,7 +30,7 @@ Although she encourages people to think big, Erika knows how to think tiny. Not 
 
 This marks Balsa Man's first official tiny art car! _Of course, this on-loan miniature van will have to register with the **Department of Minute Vehicles**__._
 
-\[caption id="attachment\_370" align="aligncenter" width="466" caption="Erika and the World's Smallest Version of WLCoWSVoWLT, photo © Erika Nelson"\][![Erika and the World's Smallest Version of WLCoWSVoWLT](/images/WLCoWSVoWLT.jpg)](http://balsaman.org/wp-content/uploads/2009/08/WLCoWSVoWLT.jpg)\[/caption\]
+[![Erika and the World's Smallest Version of WLCoWSVoWLT](/images/WLCoWSVoWLT.jpg)](http://balsaman.org/wp-content/uploads/2009/08/WLCoWSVoWLT.jpg)
 
 Along with this minute museum Ericka has offered a donation to the [Black Pebble Arts Foundation](http://balsaman.org/donate/) in the form of a crisp **$2** bill!
 

@@ -4,6 +4,15 @@
 
 /*Your Custom CSS Goes here*/
 
+:root {
+  /* ------------------------------- Typography ------------------------------- */
+
+  /* Fluid font size from Utopia */
+  font-size: clamp(1rem, 0.9rem + 0.49vw, 1.25rem);
+  /* Safari Resize fix */
+  min-height: 1vw;
+}
+
 h1 {
   @apply text-4xl tracking-tighter mb-3 text-center lg:text-7xl;
 }

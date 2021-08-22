@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="min-h-full">
   <head>
     <meta charset="UTF-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge"/>
@@ -15,11 +15,16 @@
     {% if prism == true %}
       <link rel="stylesheet" type="text/css" href="/static/css/prism-tomorrow.css">
     {% endif %}
+    <link rel="preconnect" href="https://fonts.googleapis.com"> 
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@200;400;700&display=swap" rel="stylesheet">
   </head>
-  <body>
+  <body class="min-h-full bg-gradient-to-b from-sky-blue-400 to-sky-blue-500">
     {% include "./partials/navbar.html" %}
 
-    {{ content | safe }}
+    <div class="mx-auto bg-black max-w-hero pt-lg">
+      <main class="bg-balsa p-lg">{{ content | safe }}</main>
+    </div>
 
     {% include "./partials/footer.html" %}
 

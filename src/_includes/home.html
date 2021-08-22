@@ -8,4 +8,16 @@ layout: default
 
     <div class="prose">{{ content | safe }}</div>
 
+    <section>
+        <h2>Balsa Man 2008</h2>
+        <ul>
+            {% for photo in flickr.bm2008 %}
+            <li>
+                <div>{{ photo.title}} by {{photo.ownername}} </div>
+                <div><img src="{{photo.url_m}}" alt=""></div>
+            </li>
+            {% endfor %}
+        </ul>
+    </section>
+
 </div>

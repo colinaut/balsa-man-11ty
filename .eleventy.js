@@ -17,6 +17,10 @@ module.exports = function (eleventyConfig) {
     );
   });
 
+  /* -------------------------------------------------------------------------- */
+  /*                                   Plugins                                  */
+  /* -------------------------------------------------------------------------- */
+
   // Syntax Highlighting for Code blocks
   eleventyConfig.addPlugin(syntaxHighlight);
 
@@ -25,6 +29,23 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addDataExtension("yaml", (contents) =>
     yaml.safeLoad(contents)
   );
+
+  /* -------------------------------------------------------------------------- */
+  /*                                 Shortcodes                                 */
+  /* -------------------------------------------------------------------------- */
+
+  eleventyConfig.addShortcode("gallery", function (photos) {
+    let gallery = '<div class="gallery-list">'
+    photos.forEach(photo => {
+      gallery = gallery + `<div class="gallery-item"><a href="${photo.link}"><div class="gallery-photo"><img src='${photo.url_m}' alt=''/></div><h4 class="gallery-photo-title">${photo.title}</h4></a></div>`
+    })
+    gallery = gallery + '</div>'
+    return gallery
+  });
+
+  /* -------------------------------------------------------------------------- */
+  /*                                 Build Stuff                                */
+  /* -------------------------------------------------------------------------- */
 
   // Copy Static Files to /_Site
   eleventyConfig.addPassthroughCopy({

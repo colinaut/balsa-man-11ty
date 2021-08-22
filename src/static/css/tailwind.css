@@ -27,3 +27,45 @@ body :not(pre) > code[class*="language-"],
 body pre[class*="language-"] {
   @apply bg-gray-800;
 }
+
+/* --------------------------------- Gallery -------------------------------- */
+
+.gallery-list {
+  @apply grid grid-cols-3 gap-sm;
+}
+
+.gallery-item {
+  @apply relative;
+}
+
+.gallery-item .gallery-photo-title {
+  @apply m-0 p-xs absolute bottom-0 left-0 z-10 bg-balsa bg-opacity-50 w-full leading-tight text-sm;
+}
+
+.gallery-item .gallery-photo-title:empty {
+  display: none;
+}
+
+.gallery-photo {
+  position: relative;
+}
+
+.gallery-photo::before {
+  display: block;
+  content: "";
+  width: 100%;
+  padding-top: calc( (3 / 4) * 100% );
+}
+
+.gallery-photo > img {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: 0;
+  object-align: center;
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+}

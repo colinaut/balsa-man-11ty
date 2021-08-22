@@ -12,21 +12,31 @@ Each year, the Balsa Man founder, Colin Fahrion, and all the amazing staff of Ba
 
 The first year of Balsa Man! The Temple of Reduced Expectations was magical!
 
+{% gallery flickr.bm2008 %}
+
 ## Balsa Man 2009
 
 **Big Dreams, Writ Small!** Balsa Man year two when the Balsa Man Org was birthed and we started Tiny Grants for Tiny Artists! This was also the first year of the Black Rock Balsa Man Regional!
+
+{% gallery flickr.bm2009 %}
 
 ## Balsa Man 2010
 
 **The Forged Village!** The year of expanding community. Balsa Man regionals expanded to all over the world — San Diego, Boston, Minniapolis, London, and Tokyo! This year saw the release of the first edition of Dress Warm, the Balsa Man newspaper!
 
+{% gallery flickr.bm2010 %}
+
 ## Balsa Man 2011
 
 **Growing Pains!** After the explosion of attendees the Balsa Man org starts selling tickets for the first time — which was a bit of a fiasco. Make sure to check out the [2011 edition of Dress Warm](https://balsaman.org/dresswarm/dresswarm.pdf)!
 
+{% gallery flickr.bm2011 %}
+
 ## Balsa Man 2012
 
 **Chance!** In trying to manage the ticket fiasco of last year Balsa Man org held Balsa Man Bingo and Three Card Monte events for participants to get tickets. This was the last year of Balsa Man which was held at a new location due to polite request from the federal park service.
+
+{% gallery flickr.bm2012 %}
 
 ## Balsa Man 2013
 

@@ -1,5 +1,7 @@
 ---
 items:
+  - text: Participate
+    url: "/participate"
   - text: History
     url: "/history"
   - text: Blog

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" class="min-h-full">
+<html lang="en" class="h-full">
   <head>
     <meta charset="UTF-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge"/>
@@ -19,11 +19,11 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@200;400;700&display=swap" rel="stylesheet">
   </head>
-  <body class="min-h-full bg-gradient-to-b from-sky-blue-400 to-sky-blue-500">
+  <body class="min-h-full bg-no-repeat bg-gradient-to-b from-sky-blue-400 to-sky-blue-500">
     {% include "./partials/navbar.html" %}
 
     <div class="mx-auto bg-black max-w-hero pt-lg">
-      <main class="bg-balsa p-lg">{{ content | safe }}</main>
+      <main class="bg-balsa p-base py-md sm:p-md lg:p-lg">{{ content | safe }}</main>
     </div>
 
     {% include "./partials/footer.html" %}

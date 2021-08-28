@@ -12,7 +12,7 @@ We hear at Balsa Man Org is overwhelmingly excited to announce that the excellen
 
 _And here she is to announcing the San Diego Balsa Regional in her own words…_
 
-\[caption id="attachment\_2010" align="alignright" width="257" caption="San Diego Balsa Man Regional Lead and bad-assed hooper Angelica"\][![San Diego Balsa Man Regional Lead and bad-assed hooper Angelica](/images/Angelica-e1313781592126.jpg "San Diego Balsa Man Regional Lead and bad-assed hooper Angelica")](http://balsaman.org/wp-content/uploads/2011/08/Angelica-e1313781592126.jpg)\[/caption\]
+\[caption id="attachment\_2010" align="alignright" width="257" caption="San Diego Balsa Man Regional Lead and bad-assed hooper Angelica"\][![San Diego Balsa Man Regional Lead and bad-assed hooper Angelica](/images/Angelica-e1313781592126.jpg "San Diego Balsa Man Regional Lead and bad-assed hooper Angelica")](https://balsaman.org/wp-content/uploads/2011/08/Angelica-e1313781592126.jpg)\[/caption\]
 
 San Diego will be hosting it's very first Balsa Man event on **Saturday, Sept. 3 at 5:30pm**.  The event will take place at one of the **bonfire pits on Fiesta Island** (look for the pit with the Balsa Man!).  This year's man will be 2.5 feet tall, with a fire pit as the base, to celebrate one of San Diego's favorite summer past times.  The man will burn 7pm, just before sunset.
 

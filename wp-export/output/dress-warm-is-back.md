@@ -15,4 +15,4 @@ And we have a exclusive sneak peak at the cover for this year's Dress Warm!
 
 ![Dress Warm 2010 Front Cover](/images/DressWarm-FrontCover.jpg "Dress Warm 2010 Front Cover")
 
-Get your copy at this year's Balsa Man! Also, this is the first year Dress Warm will be delivering copies to the [Black Rock Desert Balsa Man Regional](http://balsaman.org/2010/07/black-rock-balsa-regional-2010-sept-3rd/)! So if you are stuck out in the desert make sure to stop by Fandago during the Regional on Friday 5-6pm for your copy of Dress Warm.
+Get your copy at this year's Balsa Man! Also, this is the first year Dress Warm will be delivering copies to the [Black Rock Desert Balsa Man Regional](https://balsaman.org/2010/07/black-rock-balsa-regional-2010-sept-3rd/)! So if you are stuck out in the desert make sure to stop by Fandago during the Regional on Friday 5-6pm for your copy of Dress Warm.

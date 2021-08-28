@@ -12,13 +12,13 @@ tags:
   - "sfindiefest"
 ---
 
-[![Jeff Ross at the SF Indie Fest (photo by Clody Cates)](/images/jeffross.jpg "Jeff Ross")](http://www.flickr.com/photos/clodycates/2295819031/)
+[![Jeff Ross at the SF Indie Fest (photo by Clody Cates)](/images/jeffross.jpg "Jeff Ross")](https://www.flickr.com/photos/clodycates/2295819031/)
 
-Jeff Ross, founder and director of the [SF Indie Fest](http://www.sfindie.com/), has promised a $10 matching donation to the  [Black Pebble Arts Foundation](http://balsaman.org/donate/) for the next donor who donates $10 or more! Remember donations are used to fund [tiny art grants](http://balsaman.org/tiny-art-grants/) for our wonderful tiny artists.
+Jeff Ross, founder and director of the [SF Indie Fest](https://www.sfindie.com/), has promised a $10 matching donation to the  [Black Pebble Arts Foundation](https://balsaman.org/donate/) for the next donor who donates $10 or more! Remember donations are used to fund [tiny art grants](https://balsaman.org/tiny-art-grants/) for our wonderful tiny artists.
 
 **Well that was fast! We have already received our $10 donation. Congratulations donor your donation has been doubled!**
 
-**_[Be the next donor!](http://balsaman.org/donate/)_**
+**_[Be the next donor!](https://balsaman.org/donate/)_**
 
 > "\[BPAF is\] actually pretty neat, fund art on an affordable scale" ~ Jeff Ross
 

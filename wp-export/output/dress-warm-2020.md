@@ -22,5 +22,5 @@ If you missed getting the paper at Balsa Man you can download the PDF here:
 
 If you want to check out past issues of Dress Warm you can download them here:
 
-- [Dress Warm 2011 — Screen Readable PDF](http://balsaman.org/wp-content/uploads/2012/08/DressWarm-2011-flat.pdf)
+- [Dress Warm 2011 — Screen Readable PDF](https://balsaman.org/wp-content/uploads/2012/08/DressWarm-2011-flat.pdf)
 - [Dress Warm 2010 — Screen Readable PDF](https://balsaman.org/wp-content/uploads/2012/08/DressWarm-2011-flat.pdf)

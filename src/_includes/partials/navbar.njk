@@ -3,7 +3,7 @@
         <!--Logo etc-->
         <div class="pb-sm">
             <a href="/" >
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 138.91 136.84" xmlns:v="https://vecta.io/nano" class="max-w-full w-28 sm:w-auto lg:w-52 xl:w-60">
+                <svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 138.91 136.84" xmlns:v="https://vecta.io/nano" class="max-w-full w-28 sm:w-auto lg:w-52 xl:w-60">
                     <title>Balsa Man</title>
                     <path d="M0 36.48l60.05 81.12 13.92.6 28.93 18.64 12.93-21-28.52-18.37-5-9.11L0 36.52z" fill="#000000"/>
                     <g fill-rule="evenodd">
@@ -24,7 +24,7 @@
 
         <!--Toggle button (hidden on large screens)-->
         <button @click="isOpen = !isOpen" type="button" class="block px-2 ml-auto sm:hidden text-primary-500 hover:text-primary-500 focus:outline-none focus:text-primary-500" :class="{ 'transition transform-180': isOpen }" aria-label="Menu">
-            <svg class="w-10 h-10 fill-current" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24">
+            <svg class="w-10 h-10 fill-current" xmlns="https://www.w3.org/2000/svg" viewbox="0 0 24 24">
                 <path x-show="isOpen" fill-rule="evenodd" clip-rule="evenodd" d="M18.278 16.864a1 1 0 0 1-1.414 1.414l-4.829-4.828-4.828 4.828a1 1 0 0 1-1.414-1.414l4.828-4.829-4.828-4.828a1 1 0 0 1 1.414-1.414l4.829 4.828 4.828-4.828a1 1 0 1 1 1.414 1.414l-4.828 4.829 4.828 4.828z"/>
                 <path x-show="!isOpen" fill-rule="evenodd" d="M4 5h16a1 1 0 0 1 0 2H4a1 1 0 1 1 0-2zm0 6h16a1 1 0 0 1 0 2H4a1 1 0 0 1 0-2zm0 6h16a1 1 0 0 1 0 2H4a1 1 0 0 1 0-2z"/>
             </svg>

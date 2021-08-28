@@ -6,7 +6,7 @@ categories:
   - "balsaman"
 ---
 
-[![Colin, the Balsa Man Founder and the Balsa Man 2008 (photo by Edrabbit)](/images/2815637022_38eb742411_b.jpg)](http://www.flickr.com/photos/edrabbit/2815637022/in/pool-balsaman2008) 
+[![Colin, the Balsa Man Founder and the Balsa Man 2008 (photo by Edrabbit)](/images/2815637022_38eb742411_b.jpg)](https://www.flickr.com/photos/edrabbit/2815637022/in/pool-balsaman2008) 
 Colin, the Balsa Man Founder and the Balsa Man 2008 (photo by Edrabbit)
 
 ## Dear tiny participants,
@@ -17,7 +17,7 @@ Before the first Balsa Man event was over, I already knew I had to do it again. 
 
 In all these years, I never did the event just to do it. I always endeavored to find a new creative reason — a new idea, a new challenge. Many times these ideas came from the participants themselves and other times they were ideas that came to me in a fit of joy and laughter. This continued year after year as I was inspired by all that came before and new creative twists were added to the event.
 
-[![Balsa Man's tour of Black Rock Desert 2012](/images/7915423058_86054a8cf4_b.jpg)](http://www.flickr.com/photos/headlouse/7915423058/in/pool-balsaman2012/) Balsa Man's tour of Black Rock Desert 2012\
+[![Balsa Man's tour of Black Rock Desert 2012](/images/7915423058_86054a8cf4_b.jpg)](https://www.flickr.com/photos/headlouse/7915423058/in/pool-balsaman2012/) Balsa Man's tour of Black Rock Desert 2012\
 
 This year is different. This year my inspiration is the wisdom that one has to know when to let things go. In many ways, this past year was a wonderful year to end on: I was able to go out to the desert to host the Black Rock Regional myself. We finally moved the event from Baker Beach where was it's home for years to a wonderful enchanting beach north of San Francisco. Due to the added distance, the attendance dropped drastically from several hundred participants to a number much closer to the attendance our first year. In a sense, it was an ouroboros return to the beginning.
 

@@ -11,6 +11,6 @@ The BPAF is proud to announce their first ever $30 grant! This is the largest ti
 
 Congratulations **Matt Whatley** for being awarded for your full art grant request of **$30** ($20 for construction and $10 for SPLODEY)!
 
-[![Slightly Impolite Awakening (front)](/images/slightly_impolite_awakening-front.jpg "Slightly Impolite Awakening (front)")](http://balsaman.org/wp-content/uploads/2010/08/slightly_impolite_awakening-front.jpg "Slightly Impolite Awakening (front)")
+[![Slightly Impolite Awakening (front)](/images/slightly_impolite_awakening-front.jpg "Slightly Impolite Awakening (front)")](https://balsaman.org/wp-content/uploads/2010/08/slightly_impolite_awakening-front.jpg "Slightly Impolite Awakening (front)")
 
-[![Slightly Impolite Awakening (back)](/images/slightly_impolite_awakening-back.jpg "Slightly Impolite Awakening (back)")](http://balsaman.org/wp-content/uploads/2010/08/slightly_impolite_awakening-back.jpg "Slightly Impolite Awakening (back)")
+[![Slightly Impolite Awakening (back)](/images/slightly_impolite_awakening-back.jpg "Slightly Impolite Awakening (back)")](https://balsaman.org/wp-content/uploads/2010/08/slightly_impolite_awakening-back.jpg "Slightly Impolite Awakening (back)")

@@ -20,8 +20,8 @@ Congratulations **Courtney and Roy**, which ever one of you is 1/16th Indian has
 
 **\[Click to Enlarge\]**
 
-[![Indian Tacos tiny art grant proposal (front)](/images/indian-tacos-front1.jpg "Indian Tacos tiny art grant proposal (front)")](http://balsaman.org/wp-content/uploads/2009/08/indian-tacos-front1.jpg)
+[![Indian Tacos tiny art grant proposal (front)](/images/indian-tacos-front1.jpg "Indian Tacos tiny art grant proposal (front)")](https://balsaman.org/wp-content/uploads/2009/08/indian-tacos-front1.jpg)
 
-[![Indian Tacos tiny art grant proposal (back)](/images/indian-tacos-back1.jpg "Indian Tacos tiny art grant proposal (back)")](http://balsaman.org/wp-content/uploads/2009/08/indian-tacos-back1.jpg)
+[![Indian Tacos tiny art grant proposal (back)](/images/indian-tacos-back1.jpg "Indian Tacos tiny art grant proposal (back)")](https://balsaman.org/wp-content/uploads/2009/08/indian-tacos-back1.jpg)
 
 _All additional Tiny Art Grant awards will have to wait until after the BPAF tiny art grant review committee has had lunch._

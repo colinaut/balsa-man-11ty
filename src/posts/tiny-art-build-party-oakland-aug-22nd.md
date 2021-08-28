@@ -8,13 +8,13 @@ tags:
   - "2009"
 ---
 
-[![](/images/2794332505_cd333a6764.jpg "Chopping Balsa")](http://www.flickr.com/photos/headlouse/2794332505/in/set-72157606916102462/) Get your pencils, x-actos, glue, wood, and most importantly your creative juices psyched for the first Tiny Art Build Party of the season.
+[![](/images/2794332505_cd333a6764.jpg "Chopping Balsa")](https://www.flickr.com/photos/headlouse/2794332505/in/set-72157606916102462/) Get your pencils, x-actos, glue, wood, and most importantly your creative juices psyched for the first Tiny Art Build Party of the season.
 
-_This party is open to tiny artist going to either Balsa Man or the [Balsa Man Regional in Black Rock Desert](http://balsaman.org/2009/08/balsa-man-comes-to-the-black-rock-desert/)__, NV._
+_This party is open to tiny artist going to either Balsa Man or the [Balsa Man Regional in Black Rock Desert](https://balsaman.org/2009/08/balsa-man-comes-to-the-black-rock-desert/)__, NV._
 
 ## Oakland Tiny Art Build Party
 
-**Saturday, August 22nd from noon till 7pm Two blocks from Rockridge BART.** _Contact_ [_info@balsaman.org_](mailto:info@balsaman.org) _for location. [facebook event page](http://www.facebook.com/event.php?eid=115971029759)_
+**Saturday, August 22nd from noon till 7pm Two blocks from Rockridge BART.** _Contact_ [_info@balsaman.org_](mailto:info@balsaman.org) _for location. [facebook event page](https://www.facebook.com/event.php?eid=115971029759)_
 
 ## Build Party FAQ
 
@@ -26,7 +26,7 @@ _This party is open to tiny artist going to either Balsa Man or the [Balsa Man R
 - **Can I buy patches and stickers to help support tiny art at the event?**
     - but of course!
 - **Can I hand deliver my art grant proposal at the event?**
-    - Yes. A representative from the [Black Pebble Arts Foundation](http://balsaman.org/donate/) will be on present to accept art grant proposals.
+    - Yes. A representative from the [Black Pebble Arts Foundation](https://balsaman.org/donate/) will be on present to accept art grant proposals.
 - **I have  fear of crossing the Bay. Will there be another Tiny Art Build Party in San Francisco?**
     - Ideally yes. We are still searching for a location for a San Francisco Tiny Art Build Party. If you are interested in hosting and live in San Francisco (ideally close to public transit) please contact us at [info@balsaman.org](mailto:info@balsaman.org).
     - Also, if you are interested in organize another East Bay or South Bay or North Bay Tiny Art Build Party please contact us at [info@balsaman.org](mailto:info@balsaman.org).

@@ -8,9 +8,9 @@ tags:
   - "cafe"
 ---
 
-_Our fifth installment of_ [_Forging Community_](http://balsaman.org/category/forging-community/) _comes from Dawn Stott who writes about that lightly refreshing center of the Balsa Man Community the Itty-Bitty Balsa Cafe!_
+_Our fifth installment of_ [_Forging Community_](https://balsaman.org/category/forging-community/) _comes from Dawn Stott who writes about that lightly refreshing center of the Balsa Man Community the Itty-Bitty Balsa Cafe!_
 
-\[caption id="" align="alignleft" width="241" caption="It's all smiles at the Balsa Man Cafe, photo by Miikka Skaffari"\][![It's all smiles at the Balsa Man Cafe, photo by Miikka Skaffari](/images/3891403923_4f15c511ca_b.jpg "It's all smiles at the Balsa Man Cafe, photo by Miikka Skaffari")](http://www.flickr.com/photos/miikka_skaffari/3891403923/in/pool-1215242@N23/)\[/caption\]
+\[caption id="" align="alignleft" width="241" caption="It's all smiles at the Balsa Man Cafe, photo by Miikka Skaffari"\][![It's all smiles at the Balsa Man Cafe, photo by Miikka Skaffari](/images/3891403923_4f15c511ca_b.jpg "It's all smiles at the Balsa Man Cafe, photo by Miikka Skaffari")](https://www.flickr.com/photos/miikka_skaffari/3891403923/in/pool-1215242@N23/)\[/caption\]
 
 Here, at The Itty Bitty Balsa Cafe, we are just a little excited about our humble facility. There will be tiny taste treats and delicious nibbles, along with sips of this-and-that to savor during a quick break from your truncated journey through this veritable village of forged dreams.
 

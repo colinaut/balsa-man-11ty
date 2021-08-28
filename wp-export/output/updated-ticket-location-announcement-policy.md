@@ -12,10 +12,10 @@ We know the new revised rules won't make everyone happy but we have every confid
 ## Revised Rules for Ticketing
 
 - As of today August 1st, new online donors no longer receive tickets as part of their donation (all donors prior to Aug 1st will still receive their tickets as promised).
-- Artists who receive art grants receive a ticket (additional tickets can be requested for large tiny art projects). Please [submit for an art grant](http://balsaman.org/tiny-art-grants/) today!
+- Artists who receive art grants receive a ticket (additional tickets can be requested for large tiny art projects). Please [submit for an art grant](https://balsaman.org/tiny-art-grants/) today!
 - Dept of Tiny Works, and other Balsa Man volunteers receive a ticket.
 - Any other people that the Balsa Man Org deems important to the event receive a ticket.
-- Everyone else who wants a ticket must play to win at the upcoming [**Balsa Bingo**](http://balsaman.org/2012/08/balsa-bingo-aug-11th/) event (Saturday 11th) or at another TBD Balsa Man Ticket Casino Event.
+- Everyone else who wants a ticket must play to win at the upcoming [**Balsa Bingo**](https://balsaman.org/2012/08/balsa-bingo-aug-11th/) event (Saturday 11th) or at another TBD Balsa Man Ticket Casino Event.
 
 ## Location Announcement Policy
 

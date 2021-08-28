@@ -12,8 +12,8 @@ Balsa Man is hosting two pre-burn Balsa Socials after work this Thursday and Fri
 
 ## San Francisco Balsa Social
 
-**Thursday 6pm at [The Sycamore](http://thesycamoresf.com/) 2140 Mission, between 17th & 18th** _Great beers, and delicious tiny sliders!_
+**Thursday 6pm at [The Sycamore](https://thesycamoresf.com/) 2140 Mission, between 17th & 18th** _Great beers, and delicious tiny sliders!_
 
 ## Oakland Balsa Social
 
-**Friday 6pm at [The Trappist](http://thetrappist.com/) 460 8th Street** _Amazing Belgian specialty beers! The distinguished tiny artist Morleyroarly, lead artist for The Temple of Baby Steps will be there!_
+**Friday 6pm at [The Trappist](https://thetrappist.com/) 460 8th Street** _Amazing Belgian specialty beers! The distinguished tiny artist Morleyroarly, lead artist for The Temple of Baby Steps will be there!_

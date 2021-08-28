@@ -9,13 +9,13 @@ tags:
   - "tiny-art"
 ---
 
-[![Balsa Betty being built at the 2010 Tiny Art Party](/images/4875695959_5d066e8082_b.jpg "Balsa Betty being built at the 2010 Tiny Art Party")](http://farm5.static.flickr.com/4138/4875695959_5d066e8082_b.jpg)
+[![Balsa Betty being built at the 2010 Tiny Art Party](/images/4875695959_5d066e8082_b.jpg "Balsa Betty being built at the 2010 Tiny Art Party")](https://farm5.static.flickr.com/4138/4875695959_5d066e8082_b.jpg)
 
 Are your Xactos sharp? Is your glue ready to stick? Got wood?
 
 Actually I don't care what your answer is come anyway, even if you only have an ounce of an idea and not a scrap of balsa. Supplies will be provided as will the creative spirit! You may walk away inspired or just have fun lending a hand to other tiny artists trying to realize their small dream.
 
-This art party is welcome to Tiny Artists who are attending the main event or the Black Rock Balsa Regional. The [Black Rock Regional Lead, Feral](http://balsaman.org/2011/08/balsa-man-black-rock-regional-2011/) will be there if you have any questions about the regional or if just want to congratulate her!
+This art party is welcome to Tiny Artists who are attending the main event or the Black Rock Balsa Regional. The [Black Rock Regional Lead, Feral](https://balsaman.org/2011/08/balsa-man-black-rock-regional-2011/) will be there if you have any questions about the regional or if just want to congratulate her!
 
 ## **San Francisco Tiny Art Build Party**
 
@@ -35,7 +35,7 @@ RSVP on the [Facebook event page](https://www.facebook.com/event.php?eid=1089158
 - **Can I buy tickets, patches and stickers to help support tiny art at the event?**
     - but of course! _As long as we have received them in time._
 - **Can I hand deliver my art grant proposal at the event?**
-    - Yes! A representative from the [Black Pebble Arts Foundation](http://balsaman.org/donate/) will be on present to accept art grant proposals.
+    - Yes! A representative from the [Black Pebble Arts Foundation](https://balsaman.org/donate/) will be on present to accept art grant proposals.
 - **I have fear of leaving the East bay**
     - There will be likely be an Easy Bay Tiny Art Party later this month.
 

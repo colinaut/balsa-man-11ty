@@ -13,6 +13,6 @@ _**Alienated and isolated yet still bound to majesty of the city, we seek warmth
 
 This year's Balsa Man will focus on the tiny community that makes Balsa Man more than a sum of it's tiny parts. This means **more tiny art build parties** and **more Balsa Regionals**!
 
-For more on the theme and how you can participate to make this year's Balsa Man the best ever please visit our revamped [Balsa Man 2010 home page](http://balsaman.org/).
+For more on the theme and how you can participate to make this year's Balsa Man the best ever please visit our revamped [Balsa Man 2010 home page](https://balsaman.org/).
 
 Balsa Man 2010 patches and stickers are coming soon stay tuned for announcements!

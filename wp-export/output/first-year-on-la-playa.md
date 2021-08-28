@@ -10,9 +10,9 @@ tags:
   - "susurrus-coterie"
 ---
 
-_In our third installment of [Forging Community](http://balsaman.org/category/forging-community/), Colin Fahrion shares an old photo from 1990 illuminating a brief glimpse on Balsa Man's early years._
+_In our third installment of [Forging Community](https://balsaman.org/category/forging-community/), Colin Fahrion shares an old photo from 1990 illuminating a brief glimpse on Balsa Man's early years._
 
-\[caption id="attachment\_1605" align="aligncenter" width="467" caption="Balsa Man 1990, aka Zonelet Jaunt #4 (photo #2b030 by Mike Mike)"\][![Balsa Man 1990, aka Zonelet Jaunt #4 (photo #2b030 by Mike Mike)](/images/BalsaMan1990-sml.jpg "Balsa Man 1990, aka Zonelet Jaunt #4 (photo #2b030 by Mike Mike)")](http://www.flickr.com/photos/headlouse/4883765475/in/set-72157624706984922/ "Balsa Man 1990, aka Zonelet Jaunt #4 (photo #2b030 by Mike Mike)")\[/caption\]
+\[caption id="attachment\_1605" align="aligncenter" width="467" caption="Balsa Man 1990, aka Zonelet Jaunt #4 (photo #2b030 by Mike Mike)"\][![Balsa Man 1990, aka Zonelet Jaunt #4 (photo #2b030 by Mike Mike)](/images/BalsaMan1990-sml.jpg "Balsa Man 1990, aka Zonelet Jaunt #4 (photo #2b030 by Mike Mike)")](https://www.flickr.com/photos/headlouse/4883765475/in/set-72157624706984922/ "Balsa Man 1990, aka Zonelet Jaunt #4 (photo #2b030 by Mike Mike)")\[/caption\]
 
 Yep that's us—bone-tired with "_what the fuck are we doing here?_" looks on our faces. It was 1990 and the first time we took Balsa Man to the place Mike Mike and the Susurrus Coterie called the Zonelet, a little beach still inside San Francisco city limits yet completely removed from the Big Wide World.
 

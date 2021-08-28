@@ -13,6 +13,6 @@ This completely beautiful and well designed grant proposal came to us all the wa
 
 We wish her well in the dust of the desert and the BPAF is very proud to award her **$5** for to make her Tiny Star Tree a reality!
 
-[![Tiny Star Tree (front)](/images/tinystartreefront.jpg "Tiny Star Tree (front)")](http://balsaman.org/wp-content/uploads/2009/08/tinystartreefront.jpg)
+[![Tiny Star Tree (front)](/images/tinystartreefront.jpg "Tiny Star Tree (front)")](https://balsaman.org/wp-content/uploads/2009/08/tinystartreefront.jpg)
 
-[![Tiny Star Tree (back)](/images/tinystartreeback.jpg "Tiny Star Tree (back)")](http://balsaman.org/wp-content/uploads/2009/08/tinystartreeback.jpg)
+[![Tiny Star Tree (back)](/images/tinystartreeback.jpg "Tiny Star Tree (back)")](https://balsaman.org/wp-content/uploads/2009/08/tinystartreeback.jpg)

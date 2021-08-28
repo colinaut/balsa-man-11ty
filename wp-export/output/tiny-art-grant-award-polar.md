@@ -20,8 +20,8 @@ Polar will be no boring vendor, **Veronica Fetzner** and **Simon Sutherland's** 
 
 **\[Click to Enlarge\]**
 
-**[![Tiny Art Grant: Polar by Veronica & Simon](/images/polar-front.jpg "Tiny Art Grant: Polar by Veronica & Simon (front)")](http://balsaman.org/wp-content/uploads/2009/08/polar-front.jpg)**
+**[![Tiny Art Grant: Polar by Veronica & Simon](/images/polar-front.jpg "Tiny Art Grant: Polar by Veronica & Simon (front)")](https://balsaman.org/wp-content/uploads/2009/08/polar-front.jpg)**
 
-**[![Tiny Art Grant: Polar by Veronica & Simon (back)](/images/polar-back.jpg "Tiny Art Grant: Polar by Veronica & Simon (back)")](http://balsaman.org/wp-content/uploads/2009/08/polar-back.jpg)**
+**[![Tiny Art Grant: Polar by Veronica & Simon (back)](/images/polar-back.jpg "Tiny Art Grant: Polar by Veronica & Simon (back)")](https://balsaman.org/wp-content/uploads/2009/08/polar-back.jpg)**
 
 Congratualations Veronica & Simon!

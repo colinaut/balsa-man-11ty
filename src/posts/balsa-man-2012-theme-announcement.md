@@ -27,7 +27,7 @@ This is a big important question and we have created a new location committee to
 
 Another important question and one we are pleased to announce is solved! We have come up with an innovative solution that is fair, eliminates the problem of scalpers, and best of all is inspired by this year’s theme!
 
-Donors who donate prior to August 2nd 2012 will receive a number of tickets equal to the roll of a **6 sided die +/- their donor level modifier**. (see the [BPAF donation page](http://balsaman.org/donate/) for more info)
+Donors who donate prior to August 2nd 2012 will receive a number of tickets equal to the roll of a **6 sided die +/- their donor level modifier**. (see the [BPAF donation page](https://balsaman.org/donate/) for more info)
 
 Additional tickets will only be available at any of the **Balsa Man Ticket Casino** events leading up to the main event. At the ticket casino, participants can win tickets by playing any number of games of chance including craps, roulette, and bingo! While obviously not everyone will win a ticket to Balsa Man, all participants will have a fair shot!
 

@@ -10,9 +10,9 @@ tags:
   - "tiny-art"
 ---
 
-[![](/images/3846893558_e553b0d5b1.jpg "Balsa remains")](http://www.flickr.com/photos/headlouse/3846893558/in/set-72157622113746470/) The first tiny art build party was such a success with so much tiny creative spirit that we have decided to do two more this weekend: One in **Oakland on Saturday Aug 29th from noon to 7pm** and another in **San Francisco on Sunday Aug 30th from noon to 7pm**.
+[![](/images/3846893558_e553b0d5b1.jpg "Balsa remains")](https://www.flickr.com/photos/headlouse/3846893558/in/set-72157622113746470/) The first tiny art build party was such a success with so much tiny creative spirit that we have decided to do two more this weekend: One in **Oakland on Saturday Aug 29th from noon to 7pm** and another in **San Francisco on Sunday Aug 30th from noon to 7pm**.
 
-_This party is open to tiny artist going to either Balsa Man or the [Balsa Man Regional in Black Rock Desert](http://balsaman.org/2009/08/balsa-man-comes-to-the-black-rock-desert/), NV._
+_This party is open to tiny artist going to either Balsa Man or the [Balsa Man Regional in Black Rock Desert](https://balsaman.org/2009/08/balsa-man-comes-to-the-black-rock-desert/), NV._
 
 > ## The Oakland Tiny Art Party has been canceled! (Sorry for the late notice)
 > 
@@ -20,13 +20,13 @@ _This party is open to tiny artist going to either Balsa Man or the [Balsa Man R
 > 
 > ### Saturday, Aug 29th, noon–7pm
 > 
-> **Near the Grand Lake Theater** (email [info@balsaman.org](mailto:info@balsaman.org) for directions) _Hosted by the excellent_ [_@morleyroarly_](http://twitter.com/morleyroarly)_!_
+> **Near the Grand Lake Theater** (email [info@balsaman.org](mailto:info@balsaman.org) for directions) _Hosted by the excellent_ [_@morleyroarly_](https://twitter.com/morleyroarly)_!_
 
 > ## San Francisco Tiny Art Build Party
 > 
 > ### Sunday, Aug 30th, noon-7pm
 > 
-> **Near 16th and Guerrerao** (email [info@balsaman.org](mailto:info@balsaman.org) for directions) _Hosted by the wonderful_ [_@squidllama_](http://twitter.com/squidllama) _and_ _[@mella](http://twitter.com/mella)_ [San Francisco Party facebook event page](http://www.facebook.com/event.php?eid=120696913991)
+> **Near 16th and Guerrerao** (email [info@balsaman.org](mailto:info@balsaman.org) for directions) _Hosted by the wonderful_ [_@squidllama_](https://twitter.com/squidllama) _and_ _[@mella](https://twitter.com/mella)_ [San Francisco Party facebook event page](https://www.facebook.com/event.php?eid=120696913991)
 
 ## Tiny Art Build Party FAQ
 
@@ -38,6 +38,6 @@ _This party is open to tiny artist going to either Balsa Man or the [Balsa Man R
 - **Can I buy stickers to help support tiny art at the event?**
     - but of course!
 - **Can I hand deliver my art grant proposal at the event?**
-    - Yes. A representative from the [Black Pebble Arts Foundation](http://balsaman.org/donate/) will be on present to accept art grant proposals.
+    - Yes. A representative from the [Black Pebble Arts Foundation](https://balsaman.org/donate/) will be on present to accept art grant proposals.
 
 \* _Particularly bountiful (or delicious) in-kind donations of art materials or shared food will be receive a special gift from the Black Pebble Arts Foundation._

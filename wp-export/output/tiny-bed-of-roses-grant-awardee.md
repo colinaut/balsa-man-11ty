@@ -20,8 +20,8 @@ The BPAF grant committee vote was unanimous with most agreeing that the quoted w
 
 As a result, the Black Pebble Arts Foundation is proud to announce it's first tiny art grant award of **$5** to **Nara Brados** for her project **Tiny Bed of Roses!**
 
-[![Tiny Bed of Roses (front) by Nara Brados](/images/tiny-bed-of-roses-front-204x300.jpg "Tiny Bed of Roses (front) by Nara Brados")](http://balsaman.org/wp-content/uploads/2010/08/tiny-bed-of-roses-front.jpg)
+[![Tiny Bed of Roses (front) by Nara Brados](/images/tiny-bed-of-roses-front-204x300.jpg "Tiny Bed of Roses (front) by Nara Brados")](https://balsaman.org/wp-content/uploads/2010/08/tiny-bed-of-roses-front.jpg)
 
-[![Tiny Bed of Roses (back) by Nara Brados](/images/tiny-bed-of-roses-back-300x203.jpg "Tiny Bed of Roses (back) by Nara Brados")](http://balsaman.org/wp-content/uploads/2010/08/tiny-bed-of-roses-back.jpg)
+[![Tiny Bed of Roses (back) by Nara Brados](/images/tiny-bed-of-roses-back-300x203.jpg "Tiny Bed of Roses (back) by Nara Brados")](https://balsaman.org/wp-content/uploads/2010/08/tiny-bed-of-roses-back.jpg)
 
 **\*UPDATE TO GRANT GUIDELINES: As a direct result of this proposal, the BPAF has now revised their grant proposal guidelines and the word limit is now 100–150 words in order to reduce eyestrain and work place injuries.**

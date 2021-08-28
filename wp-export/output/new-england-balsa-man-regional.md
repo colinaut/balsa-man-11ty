@@ -19,4 +19,4 @@ The New England Black Rock Desert Camper Regional, Firefly, usually has a giant 
 
 The regional will take place on **Saturday September 3rd** somewhere sandy in the Boston/Cape Cod area with the exact time and **location to be determined**. If you would like to get involved or find out more you can contact Abe at **[balsaNE@balsaman.org](mailto:balsaNE@balsaman.org)**.
 
-_The Balsa Man Org continues to encourage new regional balsa burns around the country and the world! If you would like to host your own regional burn and are interesting in receiving a tiny art grant please review our [Balsa Regionals](http://balsaman.org/participate/balsa-regionals/) page._
+_The Balsa Man Org continues to encourage new regional balsa burns around the country and the world! If you would like to host your own regional burn and are interesting in receiving a tiny art grant please review our [Balsa Regionals](https://balsaman.org/participate/balsa-regionals/) page._

@@ -9,7 +9,7 @@ tags:
   - "san-francisco"
 ---
 
-[![Lanterns built for the Balsa Man 2009 base, photo by Colin](/images/3876910952_7ca9f39323.jpg "Lanterns built for the Balsa Man 2009 base, photo by Colin")](http://www.flickr.com/photos/headlouse/3876910952/in/pool-1215242@N23/)
+[![Lanterns built for the Balsa Man 2009 base, photo by Colin](/images/3876910952_7ca9f39323.jpg "Lanterns built for the Balsa Man 2009 base, photo by Colin")](https://www.flickr.com/photos/headlouse/3876910952/in/pool-1215242@N23/)
 
 Lastly but certainly not leastly, San Francisco will have it's own Tiny Art Build party on **Sunday Aug 22st from noon to 8pm**. (_Note has been changed was originally the 21st_) The great [Rick Abruzzo](rickabruzzo), master sausage chef, event organizer, and more,  has offered to host the SF Tiny Art Party at **Chez Poulet, 3359 Cesar Chavez** (at Mission), San Francisco.
 
@@ -25,11 +25,11 @@ _Note to the allergy prone and the ailurophobic: there is a cat._
     - The BPAF has donated some art materials (wood and glue) and tools (pencils, knifes, and rulers); however is is _highly recommended that you bring your own art supplies/tools_.
     - In-kind donations of extra art materials are always welcome!\*
 - **Can I buy patches and stickers to help support tiny art at the event?**
-    - but of course! We may also have a couple [Custom Engraved Basla Man X-Acto Sets](http://balsaman.org/goods/#xactoset) for sale.
+    - but of course! We may also have a couple [Custom Engraved Basla Man X-Acto Sets](https://balsaman.org/goods/#xactoset) for sale.
 - **Can I hand deliver my art grant proposal at the event?**
-    - Yes. A representative from the [Black Pebble Arts Foundation](http://balsaman.org/donate/) will be on present to accept art grant proposals.
+    - Yes. A representative from the [Black Pebble Arts Foundation](https://balsaman.org/donate/) will be on present to accept art grant proposals.
 - **I have fear of leaving the East bay/South bay**
-    - East bay tiny artists remember about the [Oakland Tiny Art Build Party](http://balsaman.org/2010/07/tiny-art-build-party-oakland-aug-8th/) this weekend on Sunday the 8th. Also there is a S[outh San Francisco Tiny Art Party](http://balsaman.org/2010/08/south-sf-tiny-art-build-party-aug-15th/) Aug 15th.
+    - East bay tiny artists remember about the [Oakland Tiny Art Build Party](https://balsaman.org/2010/07/tiny-art-build-party-oakland-aug-8th/) this weekend on Sunday the 8th. Also there is a S[outh San Francisco Tiny Art Party](https://balsaman.org/2010/08/south-sf-tiny-art-build-party-aug-15th/) Aug 15th.
 
 \* _Particularly bountiful (or delicious) in-kind donations of art materials or shared food will be receive a special gift from the Black Pebble Arts Foundation._
 

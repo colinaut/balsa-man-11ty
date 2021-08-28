@@ -11,7 +11,7 @@ If you missed last weekend's Balsa Bingo event, then you missed out on a lot of 
 > 
 > **Tuesday 21st, 6pm–9pm**
 > 
-> **[The Sycamore](http://thesycamoresf.com/), 2140 Mission (between 17th & 18th)**
+> **[The Sycamore](https://thesycamoresf.com/), 2140 Mission (between 17th & 18th)**
 
 **10¢ to play.** Every contestant gets a chance to win!
 

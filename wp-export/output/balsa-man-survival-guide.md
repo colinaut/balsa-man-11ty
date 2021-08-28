@@ -9,17 +9,17 @@ tags:
   - "tamil"
 ---
 
-\[caption id="" align="alignright" width="259" caption="Participants Arrive at Balsa Man 2008 by ebisue"\][![DSCN0157](/images/2813440120_2ee7fae04f.jpg "Participants Arrive at Balsa Man 2008")](http://www.flickr.com/photos/ebisue88/2813440120/ "DSCN0157 by ebisue, on Flickr")\[/caption\]
+\[caption id="" align="alignright" width="259" caption="Participants Arrive at Balsa Man 2008 by ebisue"\][![DSCN0157](/images/2813440120_2ee7fae04f.jpg "Participants Arrive at Balsa Man 2008")](https://www.flickr.com/photos/ebisue88/2813440120/ "DSCN0157 by ebisue, on Flickr")\[/caption\]
 
 ## Arrival Information
 
-We encourage all to arrive by **6pm on Sept 5th** to view the [tiny art](http://balsaman.org/tiny-art-grants/) and mingle with the other Balsa Man [Participants](http://balsaman.org/participate/)—don't be late because Balsa Man is as short as it is tiny.
+We encourage all to arrive by **6pm on Sept 5th** to view the [tiny art](https://balsaman.org/tiny-art-grants/) and mingle with the other Balsa Man [Participants](https://balsaman.org/participate/)—don't be late because Balsa Man is as short as it is tiny.
 
 **Early arrival time** for Balsa Man volunteers and Tiny Artists is 5:15pm. Participants may actually arrive as early as they want; however, Basla Man DPW has the right to ridicule those who arrive way too early for their own good. It should be noted that there is _no camping._
 
 There are **no tickets to Balsa Man**; however, you are welcome to create your own Balsa Man tickets.
 
-Your car will not be searched at the gate, nor your person—in fact there isn't really even a gate. However, we encourage **Balsa Man Greeters**. Also, we need volunteers to create this year's [Balsa Burma Shave signs](http://www.flickr.com/photos/jhrphotos/2814562813/).
+Your car will not be searched at the gate, nor your person—in fact there isn't really even a gate. However, we encourage **Balsa Man Greeters**. Also, we need volunteers to create this year's [Balsa Burma Shave signs](https://www.flickr.com/photos/jhrphotos/2814562813/).
 
 For event location information please contact [info@balsaman.org](mailto:info@balsaman.org).
 

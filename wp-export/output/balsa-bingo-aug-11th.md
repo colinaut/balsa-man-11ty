@@ -7,7 +7,7 @@ categories:
 
 It's the first ever Balsa Man Bingo! Don't have a ticket to this year's Balsa Man? What to get on the special location announcement list. **_This is your chance!_**
 
-Due to the new ticketing rules, only ticket holders get on the location announcement list; if you do not yet have a ticket, you must either be an artist and [submit an art grant](http://balsaman.org/tiny-art-grants/) or come to one of the Ticket Casino Events. The Balsa Bingo Event is the first such event (others are TBD). For more read our [Updated Ticket & Location Announcement Policy](http://balsaman.org/2012/08/updated-ticket-location-announcement-policy/).
+Due to the new ticketing rules, only ticket holders get on the location announcement list; if you do not yet have a ticket, you must either be an artist and [submit an art grant](https://balsaman.org/tiny-art-grants/) or come to one of the Ticket Casino Events. The Balsa Bingo Event is the first such event (others are TBD). For more read our [Updated Ticket & Location Announcement Policy](https://balsaman.org/2012/08/updated-ticket-location-announcement-policy/).
 
 ![](/images/balsa-bingo.jpg "Balsa Bingo")
 
@@ -22,7 +22,7 @@ _Music! Snarky Bingo Announcers! Photo and art gallery from past Balsa Man! The 
 ### **Schedule**
 
 - **Doors at noon; first game at 12:30**
-- **3pm musical intermission** with the fabulous band [**Ghost Town Gospel**](http://www.reverbnation.com/ghosttowngospel)
+- **3pm musical intermission** with the fabulous band [**Ghost Town Gospel**](https://www.reverbnation.com/ghosttowngospel)
 - **Ends at 5pm**
 
 **Door charge $2 _or more sliding scale_\***
@@ -50,4 +50,4 @@ PLEASE **[RSVP on Facebook](https://www.facebook.com/events/211399738986757/)** 
 
 ## Ticket Design for 2012!
 
-[![Balsa Man Ticket 2012](/images/balsa-man-ticket-2012.png "Balsa Man Ticket 2012")](http://balsaman.org/wp-content/uploads/2012/08/balsa-man-ticket-2012.png)
+[![Balsa Man Ticket 2012](/images/balsa-man-ticket-2012.png "Balsa Man Ticket 2012")](https://balsaman.org/wp-content/uploads/2012/08/balsa-man-ticket-2012.png)

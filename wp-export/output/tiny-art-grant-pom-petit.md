@@ -15,8 +15,8 @@ The Black Pebble Arts Foundation arts review committee would like to apologize t
 
 Bill Clinton and a grant proposal for a miniature version of "the Belgium Waffle?" Who knows what this means—as if there was only one belgium waffle in all of existence.
 
-![Tiny Waffle (front)](/images/waffle-front.jpg "Tiny Waffle (front)")[](http://balsaman.org/wp-content/uploads/2009/08/waffle-back.jpg)
+![Tiny Waffle (front)](/images/waffle-front.jpg "Tiny Waffle (front)")[](https://balsaman.org/wp-content/uploads/2009/08/waffle-back.jpg)
 
-[![Waffle (back)](/images/waffle-back.jpg "Waffle (back)")](http://balsaman.org/wp-content/uploads/2009/08/waffle-back.jpg)
+[![Waffle (back)](/images/waffle-back.jpg "Waffle (back)")](https://balsaman.org/wp-content/uploads/2009/08/waffle-back.jpg)
 
 Well at least we're only down **$2**. Congratulations, **Crash**! I can't wait to see your "**Pom Petit**" belgium waffle—really, we are overjoyed that you will be making art for Balsa Man.

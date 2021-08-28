@@ -27,7 +27,7 @@ Tiny artists and other participants should **arrive by** **6pm**. If you arrive
 
 The sunset is at 7.40pm and the main Balsa Blighty sculpture will burn shortly after the sun can no longer be seen. All other tiny art will burn after the main Balsa Blighty burn. Tiny art should only be burned by those that created it.
 
-**Location to be announced at a later date.** Follow the [facebook event page](http://www.facebook.com/event.php?eid=129351310441667) or the [@balsablighty](http://twitter.com/balsablighty) twitter stream for more announcements.
+**Location to be announced at a later date.** Follow the [facebook event page](https://www.facebook.com/event.php?eid=129351310441667) or the [@balsablighty](https://twitter.com/balsablighty) twitter stream for more announcements.
 
 ### WANTED: Tiny Art for Basla Blighty!
 
@@ -51,4 +51,4 @@ Balsa Blighty is a BYOB event. We encourage you to bring with you whatever you 
 
 Please do not play Godzilla amongst the tiny art. Be mindful where you are stepping.
 
-_**To stay abreast of the event, follow the**_ [_**facebook event page**_](http://www.facebook.com/event.php?eid=129351310441667) _**or the**_ [_**@balsablighty**_](http://twitter.com/balsablighty) _**twitter stream.**_
+_**To stay abreast of the event, follow the**_ [_**facebook event page**_](https://www.facebook.com/event.php?eid=129351310441667) _**or the**_ [_**@balsablighty**_](https://twitter.com/balsablighty) _**twitter stream.**_

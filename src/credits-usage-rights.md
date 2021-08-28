@@ -20,4 +20,4 @@ Before reusing any of these photos on this website, please review the photograph
 
 ## Content
 
-All content on Balsa Man is copyright of Balsa Man and the author. Unless otherwise noted, all content is authored by Colin Fahrion. Content can be quoted or sampled with attribution and in keeping with [fair use](http://en.wikipedia.org/wiki/Fair_use) guidelines.
+All content on Balsa Man is copyright of Balsa Man and the author. Unless otherwise noted, all content is authored by Colin Fahrion. Content can be quoted or sampled with attribution and in keeping with [fair use](https://en.wikipedia.org/wiki/Fair_use) guidelines.

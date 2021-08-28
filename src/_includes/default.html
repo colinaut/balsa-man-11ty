@@ -9,7 +9,20 @@
     </title>
     {% if description %}
       <meta name="description" content="{{description}}"/>
+      <meta property="og:description" content="{{description}}"/>
+      {% else %}
+      <meta name="description" content="Make your own tiny Balsa Man event!"/>
+      <meta property="og:description" content="Make your own tiny Balsa Man event!"/>
     {% endif %}
+    <meta property="og:title" content="{{ 'Balsa Man ' if layout!='home' }}{{ title }}"/>
+    <meta name="image" content="/static/img/og.jpg">
+    <meta property="og:image" content="/static/img/og.jpg">
+    <meta name="twitter:card" content="summary_large_image"/>
+    
+
+    <link rel="icon" href="/favicon.ico">
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+
     {% block head %}{% endblock %}
     <script src="/static/js/alpine.js" defer></script>
     <link rel="stylesheet" type="text/css" href="/static/css/style.css"/>

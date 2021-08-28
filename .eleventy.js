@@ -53,13 +53,25 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addFilter('sortCollection', function(collection) {
-    if (collection) return HTMLAllCollection.sort((a,b) => {
+    if (collection) return collection.sort((a,b) => {
         const aOrder = a.data.order || 0;
         const bOrder = b.data.order || 0;
         return aOrder - bOrder || aTitle.localeCompare(bTitle);
     });
     return false;
   });
+
+  eleventyConfig.addFilter('collectionByYear', function(collection) {
+    /* --------------------- Get array of unique post years --------------------- */
+    const yearsArray = collection.map(p => p.date.getFullYear()).filter((val, ind, arr) => arr.indexOf(val) === ind);
+    console.log("🚀 ~ file: .eleventy.js ~ line 67 ~ eleventyConfig.addFilter ~ yearsArray", yearsArray)
+    let postsByYear = []
+    yearsArray.forEach(year => {
+      const postYear = collection.filter(p => p.date.getFullYear() === year)
+      if (postYear) postsByYear = [...postsByYear,{ year: year, collection: postYear }]
+    })
+    return postsByYear
+  })
 
   /* -------------------------------------------------------------------------- */
   /*                                 Shortcodes                                 */
@@ -92,6 +104,7 @@ module.exports = function (eleventyConfig) {
 
   // Copy favicon to route of /_site
   eleventyConfig.addPassthroughCopy("./src/favicon.ico");
+  eleventyConfig.addPassthroughCopy("./src/favicon.svg");
 
   // Minify HTML
   eleventyConfig.addTransform("htmlmin", function (content, outputPath) {

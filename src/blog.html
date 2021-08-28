@@ -2,12 +2,13 @@
 layout: blog
 ---
 
-<section class="mt-15">
-    {% set postslist = collections.post %}
-
-    {% for post in postslist | reverse %}
-        <article class="my-8">
-            <h2 class="mb-2 text-3xl font-bold text-gray-900">
+{% set postsByYear = collections.post | collectionByYear | reverse %}
+{% for yearOfPosts in postsByYear %}
+    <section class="my-md">
+        <h2 class="text-5xl font-bold text-center bg-black border-b-4 border-black pb-sm pt-base text-balsa">{{ yearOfPosts.year }}</h2>
+        {% for post in yearOfPosts.collection | reverse %}
+        <article class="my-md">
+            <h3 class="text-3xl font-bold text-gray-900 mb-sm">
                 <a href="{{ post.url | url }}">
                     {% if post.data.title %}
                         {{ post.data.title }}
@@ -15,14 +16,14 @@ layout: blog
                         Untitled
                     {% endif %}
                 </a>
-            </h2>
-            <p class="mb-3 text-base leading-6 text-gray-500">
+            </h3>
+            <p class="text-base leading-6 text-gray-500 mb-sm">
                 <time>
                     {{ post.date | readableDate }}
                 </time>
             </p>
             {% if post.data.description %}
-                <p class="mb-3 text-lg text-gray-500">
+                <p class="text-lg text-gray-500 mb-sm">
                     {{ post.data.description }}
                 </p>
             {% else %}
@@ -36,5 +37,6 @@ layout: blog
             </p>
 
         </article>
-    {% endfor %}
-</section>
+        {% endfor %}
+    </section>
+{% endfor %}

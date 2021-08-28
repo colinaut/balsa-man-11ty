@@ -1,3 +1,5 @@
+const defaultTheme = require('tailwindcss/defaultTheme');
+
 const colors = {
   'sky-blue': {
     DEFAULT: '#075589',
@@ -58,7 +60,19 @@ module.exports = {
       },
       fontFamily: {
         sans: ['Montserrat', 'sans-serif']
-      }
+      },
+      typography: theme => ({
+        DEFAULT: {
+            css: {
+                lineHeight: defaultTheme.lineHeight.relaxed,
+                maxWidth: theme('maxWidth.content'),
+                a: {
+                  fontWeight: false,
+                  color: theme("colors.sky-blue.400")
+                }
+            }
+        }
+      })
     },
   },
   variants: {},

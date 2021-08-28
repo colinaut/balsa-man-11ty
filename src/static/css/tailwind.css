@@ -30,8 +30,9 @@ body pre[class*="language-"] {
 
 /* --------------------------------- Gallery -------------------------------- */
 
+
 .gallery-list {
-  @apply grid grid-cols-3 gap-sm;
+  @apply grid grid-cols-2 md:grid-cols-3 gap-sm clear-left;
 }
 
 .gallery-item {
@@ -68,4 +69,8 @@ body pre[class*="language-"] {
   object-fit: cover;
   width: 100%;
   height: 100%;
+}
+
+main .float-logo {
+  @apply mt-0 mb-base sm:w-4/12 sm:float-left sm:mr-base;
 }

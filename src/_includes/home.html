@@ -1,11 +1,25 @@
 ---
 layout: default
 ---
+    {%- for card in collections.home %}
+        <section class="grid px-lg pb-lg gap-lg {{ 'md:grid-cols-5' if card.data.img }}">
+            {% if card.data.img %}
+                <div class="md:col-span-2 {{ 'md:order-2' if card.data.imgPos === 'right' }}"><img src="{{card.data.img}}" alt="{card.data.imgAlt}"></div>
+            {% endif %}
+                <div class="{{ 'md:col-span-3' if card.data.img }} bg-balsa p-md prose">
+                    <h2>{{card.data.title}}</h2>
+                    <div>{{ card.templateContent | safe }}</div>
+                </div>
+        </section>
+    {%- endfor %}
 
-<div class="container max-w-3xl px-6">
+    {% if content %}
+        <section class="p-lg bg-balsa">
+            <!-- <h1 class="text-5xl font-bold">{{title}}</h1> -->
+        
+            <div class="prose">{{ content | safe }}</div>
+        </section>
+    {% endif %}
+    
 
-    <h1 class="text-5xl font-bold">{{title}}</h1>
 
-    <div class="prose">{{ content | safe }}</div>
-
-</div>

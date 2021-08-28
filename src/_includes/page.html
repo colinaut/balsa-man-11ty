@@ -1,11 +1,12 @@
 ---
 layout: default
 ---
+<main class="bg-balsa p-base py-md sm:p-md lg:p-lg">
 
-<div class="container max-w-3xl px-6">
+    <div class="mx-auto prose">
+        <h1>{{title}}</h1>
+    
+        <div>{{ content | safe }}</div>
+    </div>
 
-    <h1 class="text-5xl font-bold">{{title}}</h1>
-
-    <div class="prose">{{ content | safe }}</div>
-
-</div>
+</main>

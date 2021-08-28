@@ -2,6 +2,8 @@ const yaml = require("js-yaml");
 const { DateTime } = require("luxon");
 const htmlmin = require("html-minifier");
 const blogTools = require("eleventy-plugin-blog-tools");
+const markdownIt = require('markdown-it')
+const markdownItAttrs = require('markdown-it-attrs')
 
 module.exports = function (eleventyConfig) {
   // Disable automatic use of your .gitignore
@@ -10,12 +12,21 @@ module.exports = function (eleventyConfig) {
   // Merge data instead of overriding
   eleventyConfig.setDataDeepMerge(true);
 
-  // human readable date
-  eleventyConfig.addFilter("readableDate", (dateObj) => {
-    return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat(
-      "dd LLL yyyy"
-    );
-  });
+  /* -------------------------------------------------------------------------- */
+  /*                                 Markdown It                                */
+  /* -------------------------------------------------------------------------- */
+
+  // Used to add classes to markdown elements
+
+  const markdownItOptions = {
+    html: true,
+    breaks: true,
+    linkify: true
+  }
+
+  const markdownLib = markdownIt(markdownItOptions).use(markdownItAttrs)
+
+  eleventyConfig.setLibrary('md', markdownLib)
 
   /* -------------------------------------------------------------------------- */
   /*                                   Plugins                                  */
@@ -29,6 +40,26 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addDataExtension("yaml", (contents) =>
     yaml.safeLoad(contents)
   );
+
+  /* -------------------------------------------------------------------------- */
+  /*                                   Filters                                  */
+  /* -------------------------------------------------------------------------- */
+
+  // human readable date
+  eleventyConfig.addFilter("readableDate", (dateObj) => {
+    return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat(
+      "dd LLL yyyy"
+    );
+  });
+
+  eleventyConfig.addFilter('sortCollection', function(collection) {
+    if (collection) return HTMLAllCollection.sort((a,b) => {
+        const aOrder = a.data.order || 0;
+        const bOrder = b.data.order || 0;
+        return aOrder - bOrder || aTitle.localeCompare(bTitle);
+    });
+    return false;
+  });
 
   /* -------------------------------------------------------------------------- */
   /*                                 Shortcodes                                 */
@@ -57,6 +88,7 @@ module.exports = function (eleventyConfig) {
 
   // Copy Image Folder to /_site
   eleventyConfig.addPassthroughCopy("./src/static/img");
+  eleventyConfig.addPassthroughCopy("./src/static/uploads");
   eleventyConfig.addPassthroughCopy("./src/images");
 
   // Copy favicon to route of /_site
@@ -65,7 +97,7 @@ module.exports = function (eleventyConfig) {
   // Minify HTML
   eleventyConfig.addTransform("htmlmin", function (content, outputPath) {
     // Eleventy 1.0+: use this.inputPath and this.outputPath instead
-    if (outputPath.endsWith(".html")) {
+    if (outputPath && outputPath.endsWith(".html")) {
       let minified = htmlmin.minify(content, {
         useShortDoctype: true,
         removeComments: true,

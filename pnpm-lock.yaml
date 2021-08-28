@@ -17,6 +17,8 @@ specifiers:
   html-minifier: ^4.0.0
   js-yaml: ^3.14.0
   luxon: ^1.25.0
+  markdown-it: ^12.2.0
+  markdown-it-attrs: ^4.0.0
   npm-run-all: ^4.1.5
   postcss: ^8.2.1
   postcss-cli: ^8.3.1
@@ -30,6 +32,8 @@ dependencies:
   axios: 0.21.1
   dotenv: 10.0.0
   eleventy-plugin-blog-tools: 0.3.1
+  markdown-it: 12.2.0
+  markdown-it-attrs: 4.0.0_markdown-it@12.2.0
   postcss: 8.3.6
 
 devDependencies:
@@ -318,6 +322,10 @@ packages:
     dependencies:
       sprintf-js: 1.0.3
     dev: true
+
+  /argparse/2.0.1:
+    resolution: {integrity: sha512-8+9WqebbFzpX9OR+Wa6O29asIogeRMzcGtAINdpMHHyAg10f05aSFVBbcEqGf/PXw1EjAZ+q2/bEBg3DvurK3Q==}
+    dev: false
 
   /array-differ/1.0.0:
     resolution: {integrity: sha1-7/UuN1gknTO+QCuLuOVkuytdQDE=}
@@ -1348,6 +1356,10 @@ packages:
     resolution: {integrity: sha512-MyoZ0jgnLvB2X3Lg5HqpFmn1kybDiIfEQmKzTb5apr51Rb+T3KdmMiqa70T+bhGnyv7bQ6WMj2QMHpGMmlrUYQ==}
     dev: true
 
+  /entities/2.1.0:
+    resolution: {integrity: sha512-hCx1oky9PFrJ611mf0ifBLBRW8lUUVRlFolb5gWRfIELabBlbp9xZvrqZLZAs+NxFnbfQoeGd8wDkygjg7U85w==}
+    dev: false
+
   /entities/2.2.0:
     resolution: {integrity: sha512-p92if5Nz619I0w+akJrLZH0MX0Pb5DX39XOwQTtXSdQQOaYH03S1uIQp4mhOZtAXrxq4ViO67YTiLBo2638o9A==}
     dev: true
@@ -2249,6 +2261,12 @@ packages:
       uc.micro: 1.0.6
     dev: true
 
+  /linkify-it/3.0.2:
+    resolution: {integrity: sha512-gDBO4aHNZS6coiZCKVhSNh43F9ioIL4JwRjLZPkoLIY4yZFwg264Y5lu2x6rb1Js42Gh6Yqm2f6L2AJcnkzinQ==}
+    dependencies:
+      uc.micro: 1.0.6
+    dev: false
+
   /liquidjs/6.4.3:
     resolution: {integrity: sha512-m1xSB10Ncu22NR3X0xdaqu/GvP1xadDCFYGqGgd6me8DAWjyA68BKE5DHJmSxw1CGsWPsX+Hj2v/87J2w/LvMQ==}
     engines: {node: '>=4.8.7'}
@@ -2351,6 +2369,15 @@ packages:
     engines: {node: '>=0.10.0'}
     dev: true
 
+  /markdown-it-attrs/4.0.0_markdown-it@12.2.0:
+    resolution: {integrity: sha512-uLjtdCmhhmL3BuZsReYkFxk74qKjj5ahe34teBpOCJ4hYZZl7/ftLyXWLowngC2moRkbLEvKwN/7TMwbhbHE/A==}
+    engines: {node: '>=6'}
+    peerDependencies:
+      markdown-it: '>= 9.0.0 < 13.0.0'
+    dependencies:
+      markdown-it: 12.2.0
+    dev: false
+
   /markdown-it/10.0.0:
     resolution: {integrity: sha512-YWOP1j7UbDNz+TumYP1kpwnP0aEa711cJjrAQrzd0UXlbJfc5aAq0F/PZHjiioqDC1NKgvIMX+o+9Bk7yuM2dg==}
     hasBin: true
@@ -2361,6 +2388,17 @@ packages:
       mdurl: 1.0.1
       uc.micro: 1.0.6
     dev: true
+
+  /markdown-it/12.2.0:
+    resolution: {integrity: sha512-Wjws+uCrVQRqOoJvze4HCqkKl1AsSh95iFAeQDwnyfxM09divCBSXlDR1uTvyUP3Grzpn4Ru8GeCxYPM8vkCQg==}
+    hasBin: true
+    dependencies:
+      argparse: 2.0.1
+      entities: 2.1.0
+      linkify-it: 3.0.2
+      mdurl: 1.0.1
+      uc.micro: 1.0.6
+    dev: false
 
   /maximatch/0.1.0:
     resolution: {integrity: sha1-hs2NawTJ8wfAWmuUGZBtA2D7E6I=}
@@ -2382,7 +2420,6 @@ packages:
 
   /mdurl/1.0.1:
     resolution: {integrity: sha1-/oWy7HWlkDfyrf7BAP1sYBdhFS4=}
-    dev: true
 
   /memorystream/0.3.1:
     resolution: {integrity: sha1-htcJCzDORV1j+64S3aUaR93K+bI=}
@@ -4029,7 +4066,6 @@ packages:
 
   /uc.micro/1.0.6:
     resolution: {integrity: sha512-8Y75pvTYkLJW2hWQHXxoqRgV7qb9B+9vFEtidML+7koHUFapnVJAZ6cKs+Qjz5Aw3aZWHMC6u0wJE3At+nSGwA==}
-    dev: true
 
   /uglify-js/3.14.1:
     resolution: {integrity: sha512-JhS3hmcVaXlp/xSo3PKY5R0JqKs5M3IV+exdLHW99qKvKivPO4Z8qbej6mte17SOPqAOVMjt/XGgWacnFSzM3g==}

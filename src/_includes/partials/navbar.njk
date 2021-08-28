@@ -1,7 +1,7 @@
 <div class="w-full pt-sm">
     <nav class="grid items-center justify-center grid-cols-2 mx-auto sm:grid-cols-4 lg:h-60 xl:h-80 max-w-hero px-md" x-data="{ isOpen: false }" @keydown.escape="isOpen = false">
         <!--Logo etc-->
-        <div>
+        <div class="pb-sm">
             <a href="/" >
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 138.91 136.84" xmlns:v="https://vecta.io/nano" class="max-w-full w-28 sm:w-auto lg:w-52 xl:w-60">
                     <title>Balsa Man</title>
@@ -35,7 +35,7 @@
 
             {% if navigation.items %}
 
-                <ul class="items-center justify-end flex-1 pt-6 sm:pt-0 list-reset lg:flex gap-base">
+                <ul class="items-center justify-end flex-1 py-base sm:pt-0 list-reset lg:flex gap-base">
                     {% for item in navigation.items %}
                         <li class="nav__item">
                             <a @click="isOpen = false" class="inline-block text-xl text-white no-underline px-xs py-sm" href="{{ item.url }}">{{ item.text }}</a>
@@ -46,6 +46,6 @@
             {% endif %}
         </div>
         <!-- Balsa Man image -->
-        <img src="/images/balsa-man-background-transparent.png" alt="Balsa Man stands tall" class="block object-contain object-bottom w-full col-span-2 lg:h-60 xl:h-80 sm:col-span-1 justify-self-center" style="max-width:400px">
+        <img src="/images/balsa-man-background-transparent.png" alt="Balsa Man stands tall" class="hidden object-contain object-bottom w-full col-span-2 sm:block lg:h-60 xl:h-80 sm:col-span-1 justify-self-center" style="max-width:400px; {{ 'display: block' if layout=='home' }}">
     </nav>
 </div>

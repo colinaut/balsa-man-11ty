@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" class="h-full">
+<html lang="en">
   <head>
     <meta charset="UTF-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge"/>
@@ -11,30 +11,20 @@
       <meta name="description" content="{{description}}"/>
     {% endif %}
     {% block head %}{% endblock %}
+    <script src="/static/js/alpine.js" defer></script>
     <link rel="stylesheet" type="text/css" href="/static/css/style.css"/>
-    {% if prism == true %}
-      <link rel="stylesheet" type="text/css" href="/static/css/prism-tomorrow.css">
-    {% endif %}
     <link rel="preconnect" href="https://fonts.googleapis.com"> 
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@200;400;700&display=swap" rel="stylesheet">
   </head>
-  <body class="min-h-full bg-no-repeat bg-gradient-to-b from-sky-blue-400 to-sky-blue-500">
-    {% include "./partials/navbar.html" %}
+  <body class="h-full min-h-screen bg-no-repeat bg-gradient-to-b from-sky-blue-400 to-sky-blue-500">
+    {% include "./partials/navbar.njk" %}
 
-    <div class="mx-auto bg-black max-w-hero pt-lg">
-      <main class="bg-balsa p-base py-md sm:p-md lg:p-lg">{{ content | safe }}</main>
+    <div class="mx-auto bg-black max-w-hero pt-md sm:pt-lg">
+      {{ content | safe }}
     </div>
 
     {% include "./partials/footer.html" %}
-
-    <script src="/static/js/alpine.js"></script>
-
-    {% if path == "home" %}
-      <!-- Netlify Identity Widget -->
-      <!-- Needed only if you are using Netlify Identity feature -->
-      <script type="text/javascript" src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-    {% endif %}
 
   </body>
 </html>

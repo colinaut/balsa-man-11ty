@@ -1,20 +1,22 @@
 ---
 layout: default
 ---
+<main class="bg-balsa p-base py-md sm:p-md lg:p-lg">
+    <article class="mx-auto max-w-content ">
+        <header class="pb-5 mb-5 border-b-4 border-black">
+            <h1 class="text-5xl font-bold">{{title}}</h1>
+            <p class="text-base font-medium leading-6 text-center text-gray-500">
+                <time> {{ date | readableDate }}
+                    by
+                    <a>{{ author }}</a>
+    
+                </time>
+            </p>
+    
+        </header>
+        <div class="my-4 prose">{{ content | safe }}</div>
+    </article>
+    
+        
 
-<div class="container max-w-4xl px-6 mt-6">
-    <div class="pb-5 mb-5 border-b border-gray-100">
-        <h1 class="text-5xl font-bold">{{title}}</h1>
-        <p class="text-base font-medium leading-6 text-center text-gray-500">
-            <time> {{ date | readableDate }}
-                by
-                <a>{{ author }}</a>
-
-            </time>
-        </p>
-
-    </div>
-    <article class="mx-auto my-4 prose lg:prose-xl">
-        {{ content | safe }}</article>
-
-</div>
+</main>

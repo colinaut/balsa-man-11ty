@@ -10,4 +10,4 @@ While the original Balsa Man event is no longer, we encourage anyone and everyon
 
 For the first time, we are releasing the plans, such as they are, for the Balsa Man to the public domain. We encourage you to revise these plans, or even ignore them all together, to make it yours! We also are releasing our recommendations for running your own event, no matter how small.
 
-Head on over to our **[Participate](/participate)** page for plans and more!
+Head on over to our **[Participate](/participate)** page for instructions on how to build the "official" Balsa Man and how to run your own event!

@@ -42,375 +42,337 @@ You'll likely need more than this as you might mess up. You'll want more to make
 
 *All measurements are in inches.*
 
-<table>
+<table class="build-table">
     <thead>
       <tr>
-        <th dir="ltr">Section</th>
-        <th dir="ltr">Type</th>
-        <th dir="ltr">width x height</th>
-        <th dir="ltr">length</th>
-        <th dir="ltr">quantity</th>
-        <th dir="ltr">total length</th>
-        <th dir="ltr">notes</th>
+        <th>Section</th>
+        <th>Type</th>
+        <th>WxH</th>
+        <th>Length</th>
+        <th>Quantity</th>
+        <th>Total Length</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td dir="ltr">head</td>
-        <td dir="ltr">face grid</td>
-        <td dir="ltr">1/16 x 1/16</td>
-        <td dir="ltr">95.5</td>
-        <td dir="ltr">1</td>
+        <td>head</td>
+        <td>face grid</td>
+        <td>1/16 x 1/16</td>
         <td>95.5</td>
-        <td dir="ltr"></td>
+        <td>1</td>
+        <td>95.5</td>
       </tr>
       <tr>
-        <td dir="ltr">arm</td>
-        <td dir="ltr">10.5</td>
-        <td dir="ltr">16</td>
+        <td>arm</td>
+        <td>stringers</td>
+        <td>1/16 x 1/16</td>
+        <td>10.5</td>
+        <td>16</td>
         <td>168</td>
-        <td></td>
       </tr>
       <tr>
-        <td dir="ltr">leg</td>
-        <td dir="ltr">stringers</td>
-        <td dir="ltr">1/16 x 3/16</td>
-        <td dir="ltr">17.5</td>
-        <td dir="ltr">16</td>
+        <td>leg</td>
+        <td>stringers</td>
+        <td>1/16 x 3/16</td>
+        <td>17.5</td>
+        <td>16</td>
         <td>280</td>
-        <td></td>
       </tr>
       <tr>
-        <td dir="ltr">torso</td>
-        <td dir="ltr">stringers</td>
-        <td dir="ltr">1/16 x 3/16</td>
-        <td dir="ltr">8</td>
-        <td dir="ltr">4</td>
+        <td>torso</td>
+        <td>stringers</td>
+        <td>1/16 x 3/16</td>
+        <td>8</td>
+        <td>4</td>
         <td>32</td>
-        <td></td>
       </tr>
       <tr class="font-bold">
-        <td dir="ltr">TOTAL</td>
-        <td dir="ltr"></td>
-        <td dir="ltr">1/16 x 3/16</td>
-        <td dir="ltr"></td>
-        <td dir="ltr"></td>
-        <td class="s3">575.5</td>
-        <td class="s0"></td>
+        <td>TOTAL</td>
+        <td></td>
+        <td>1/16 x 3/16</td>
+        <td></td>
+        <td></td>
+        <td>575.5</td>
       </tr>
       <tr>
-        <td dir="ltr">leg</td>
-        <td dir="ltr">bone</td>
-        <td dir="ltr">1/2 x 1/2</td>
-        <td dir="ltr">24</td>
-        <td dir="ltr">2</td>
-        <td>48</td>
-        <td dir="ltr">Add slop</td>
+        <td>leg</td>
+        <td>bone</td>
+        <td>1/2 x 1/2</td>
+        <td>24</td>
+        <td>2</td>
+        <td>48 (+ slop)</td>
       </tr>
       <tr>
-        <td dir="ltr">torso</td>
-        <td dir="ltr">spine</td>
-        <td dir="ltr">1/2 x 1/2</td>
-        <td dir="ltr">12.5</td>
-        <td dir="ltr">1</td>
+        <td>torso</td>
+        <td>spine</td>
+        <td>1/2 x 1/2</td>
         <td>12.5</td>
-        <td dir="ltr">Add slop</td>
+        <td>1</td>
+        <td>12.5 (+ slop)</td>
       </tr>
       <tr class="font-bold">
-        <td dir="ltr">TOTAL</td>
-        <td dir="ltr"></td>
-        <td dir="ltr">1/2 x 1/2</td>
-        <td dir="ltr"></td>
-        <td dir="ltr"></td>
-        <td class="s3">60.5</td>
-        <td dir="ltr"></td>
+        <td>TOTAL</td>
+        <td></td>
+        <td>1/2 x 1/2</td>
+        <td></td>
+        <td></td>
+        <td>60.5</td>
       </tr>
       <tr>
-        <td dir="ltr">rings &amp; ellipsis</td>
-        <td dir="ltr">all</td>
-        <td dir="ltr">3/16 deep board</td>
+        <td>rings &amp; ellipsis</td>
+        <td>all</td>
+        <td>3/16 deep board</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td dir="ltr">4-6 boards</td>
+        <td>4-6 boards</td>
       </tr>
       <tr>
-        <td dir="ltr">torso</td>
-        <td dir="ltr">hip</td>
-        <td dir="ltr">3/16 x 1/2</td>
-        <td dir="ltr">6.5</td>
-        <td dir="ltr">4</td>
+        <td>torso</td>
+        <td>hip</td>
+        <td>3/16 x 1/2</td>
+        <td>6.5</td>
+        <td>4</td>
         <td>26</td>
-        <td></td>
       </tr>
       <tr>
-        <td dir="ltr">torso</td>
-        <td dir="ltr">lower waist</td>
-        <td dir="ltr">3/16 x 1/2</td>
-        <td dir="ltr">7</td>
-        <td dir="ltr">4</td>
+        <td>torso</td>
+        <td>lower waist</td>
+        <td>3/16 x 1/2</td>
+        <td>7</td>
+        <td>4</td>
         <td>28</td>
       </tr>
       <tr>
-        <td dir="ltr">torso</td>
-        <td dir="ltr">shoulder</td>
-        <td dir="ltr">3/16 x 1/2</td>
-        <td dir="ltr">8</td>
-        <td dir="ltr">2</td>
-        <td>16</td>
-        <td></td>
-      </tr>
-      <tr class="font-bold">
-        <td dir="ltr">TOTAL</td>
-        <td dir="ltr"></td>
-        <td dir="ltr">3/16 x 1/2</td>
-        <td dir="ltr"></td>
-        <td dir="ltr"></td>
-        <td class="s3">70</td>
-        <td class="s0"></td>
-      </tr>
-      <tr>
-        <td dir="ltr">arm</td>
-        <td dir="ltr">struts</td>
-        <td dir="ltr">3/16 x 3/16</td>
-        <td dir="ltr">1.5</td>
-        <td dir="ltr">8</td>
-        <td>12</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td dir="ltr">arm</td>
-        <td dir="ltr">struts</td>
-        <td dir="ltr">3/16 x 3/16</td>
-        <td dir="ltr">2</td>
-        <td dir="ltr">8</td>
-        <td>16</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td dir="ltr">arm</td>
-        <td dir="ltr">struts</td>
-        <td dir="ltr">3/16 x 3/16</td>
-        <td dir="ltr">1.75</td>
-        <td dir="ltr">8</td>
-        <td>14</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td dir="ltr">arm</td>
-        <td dir="ltr">struts</td>
-        <td dir="ltr">3/16 x 3/16</td>
-        <td dir="ltr">1.75</td>
-        <td dir="ltr">8</td>
-        <td>14</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td dir="ltr">arm</td>
-        <td dir="ltr">struts</td>
-        <td dir="ltr">3/16 x 3/16</td>
-        <td dir="ltr">1.25</td>
-        <td dir="ltr">8</td>
-        <td>10</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td dir="ltr">head</td>
-        <td dir="ltr">jaw</td>
-        <td dir="ltr">3/16 x 3/16</td>
-        <td dir="ltr">2</td>
-        <td dir="ltr">4</td>
+        <td>torso</td>
+        <td>shoulder</td>
+        <td>3/16 x 1/2</td>
         <td>8</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td dir="ltr">head</td>
-        <td dir="ltr">sides</td>
-        <td dir="ltr">3/16 x 3/16</td>
-        <td dir="ltr">3</td>
-        <td dir="ltr">4</td>
-        <td>12</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td dir="ltr">head</td>
-        <td dir="ltr">support</td>
-        <td dir="ltr">3/16 x 3/16</td>
-        <td dir="ltr">4</td>
-        <td dir="ltr">4</td>
+        <td>2</td>
         <td>16</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td dir="ltr">head</td>
-        <td dir="ltr">top</td>
-        <td dir="ltr">3/16 x 3/16</td>
-        <td dir="ltr">2.75</td>
-        <td dir="ltr">4</td>
-        <td>11</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td dir="ltr">leg</td>
-        <td dir="ltr">struts</td>
-        <td dir="ltr">3/16 x 3/16</td>
-        <td dir="ltr">1.75</td>
-        <td dir="ltr">8</td>
-        <td>14</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td dir="ltr">leg</td>
-        <td dir="ltr">struts</td>
-        <td dir="ltr">3/16 x 3/16</td>
-        <td dir="ltr">1.875 (1 7/8)</td>
-        <td dir="ltr">8</td>
-        <td>15</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td dir="ltr">leg</td>
-        <td dir="ltr">struts</td>
-        <td dir="ltr">3/16 x 3/16</td>
-        <td dir="ltr">2</td>
-        <td dir="ltr">8</td>
-        <td>16</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td dir="ltr">leg</td>
-        <td dir="ltr">struts</td>
-        <td dir="ltr">3/16 x 3/16</td>
-        <td dir="ltr">2.25</td>
-        <td dir="ltr">8</td>
-        <td>18</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td dir="ltr">leg</td>
-        <td dir="ltr">struts</td>
-        <td dir="ltr">3/16 x 3/16</td>
-        <td dir="ltr">2.75</td>
-        <td dir="ltr">8</td>
-        <td>22</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td dir="ltr">leg</td>
-        <td dir="ltr">struts</td>
-        <td dir="ltr">3/16 x 3/16</td>
-        <td dir="ltr">3</td>
-        <td dir="ltr">8</td>
-        <td>24</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td dir="ltr">leg</td>
-        <td dir="ltr">struts</td>
-        <td dir="ltr">3/16 x 3/16</td>
-        <td dir="ltr">3.25</td>
-        <td dir="ltr">8</td>
-        <td>26</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td dir="ltr">leg</td>
-        <td dir="ltr">struts</td>
-        <td dir="ltr">3/16 x 3/16</td>
-        <td dir="ltr">3.25</td>
-        <td dir="ltr">8</td>
-        <td>26</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td dir="ltr">torso</td>
-        <td dir="ltr">ornaments</td>
-        <td dir="ltr">3/16 x 3/16</td>
-        <td dir="ltr">3.5</td>
-        <td dir="ltr">10</td>
-        <td>35</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td dir="ltr">torso</td>
-        <td dir="ltr">struts</td>
-        <td dir="ltr">3/16 x 3/16</td>
-        <td dir="ltr">4.75</td>
-        <td dir="ltr">2</td>
-        <td>9.5</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td dir="ltr">torso</td>
-        <td dir="ltr">struts</td>
-        <td dir="ltr">3/16 x 3/16</td>
-        <td dir="ltr">4.75</td>
-        <td dir="ltr">2</td>
-        <td>9.5</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td dir="ltr">torso</td>
-        <td dir="ltr">struts</td>
-        <td dir="ltr">3/16 x 3/16</td>
-        <td>4.6875 (4 11/16)</td>
-        <td dir="ltr">2</td>
-        <td>9.375</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td dir="ltr">torso</td>
-        <td dir="ltr">struts</td>
-        <td dir="ltr">3/16 x 3/16</td>
-        <td>4.9375 (4 15/16)</td>
-        <td dir="ltr">2</td>
-        <td>9.875</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td dir="ltr">torso</td>
-        <td dir="ltr">struts</td>
-        <td dir="ltr">3/16 x 3/16</td>
-        <td>5.5625 (5 9/16)</td>
-        <td dir="ltr">2</td>
-        <td>11.125</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td dir="ltr">torso</td>
-        <td dir="ltr">struts</td>
-        <td dir="ltr">3/16 x 3/16</td>
-        <td dir="ltr">4</td>
-        <td dir="ltr">14</td>
-        <td>56</td>
-        <td></td>
       </tr>
       <tr class="font-bold">
-        <td dir="ltr">TOTAL</td>
-        <td dir="ltr"></td>
-        <td dir="ltr">3/16 x 3/16</td>
-        <td dir="ltr"></td>
-        <td class="s3" dir="ltr">154</td>
-        <td class="s0"></td>
-        <td class="s0"></td>
-      </tr>
-      <tr>
-        <td dir="ltr">torso</td>
-        <td dir="ltr">waist</td>
-        <td dir="ltr">3/16 x 3/8</td>
-        <td dir="ltr">5.5</td>
-        <td dir="ltr">4</td>
-        <td>22</td>
+        <td>TOTAL</td>
         <td></td>
+        <td>3/16 x 1/2</td>
+        <td></td>
+        <td></td>
+        <td>70</td>
       </tr>
       <tr>
-        <td dir="ltr">arm</td>
-        <td dir="ltr">bone</td>
-        <td dir="ltr">3/8 x 3/8</td>
-        <td dir="ltr">12</td>
-        <td dir="ltr">2</td>
+        <td>arm</td>
+        <td>struts</td>
+        <td>3/16 x 3/16</td>
+        <td>1.5</td>
+        <td>8</td>
+        <td>12</td>
+      </tr>
+      <tr>
+        <td>arm</td>
+        <td>struts</td>
+        <td>3/16 x 3/16</td>
+        <td>2</td>
+        <td>8</td>
+        <td>16</td>
+      </tr>
+      <tr>
+        <td>arm</td>
+        <td>struts</td>
+        <td>3/16 x 3/16</td>
+        <td>1.75</td>
+        <td>8</td>
+        <td>14</td>
+      </tr>
+      <tr>
+        <td>arm</td>
+        <td>struts</td>
+        <td>3/16 x 3/16</td>
+        <td>1.75</td>
+        <td>8</td>
+        <td>14</td>
+      </tr>
+      <tr>
+        <td>arm</td>
+        <td>struts</td>
+        <td>3/16 x 3/16</td>
+        <td>1.25</td>
+        <td>8</td>
+        <td>10</td>
+      </tr>
+      <tr>
+        <td>head</td>
+        <td>jaw</td>
+        <td>3/16 x 3/16</td>
+        <td>2</td>
+        <td>4</td>
+        <td>8</td>
+      </tr>
+      <tr>
+        <td>head</td>
+        <td>sides</td>
+        <td>3/16 x 3/16</td>
+        <td>3</td>
+        <td>4</td>
+        <td>12</td>
+      </tr>
+      <tr>
+        <td>head</td>
+        <td>support</td>
+        <td>3/16 x 3/16</td>
+        <td>4</td>
+        <td>4</td>
+        <td>16</td>
+      </tr>
+      <tr>
+        <td>head</td>
+        <td>top</td>
+        <td>3/16 x 3/16</td>
+        <td>2.75</td>
+        <td>4</td>
+        <td>11</td>
+      </tr>
+      <tr>
+        <td>leg</td>
+        <td>struts</td>
+        <td>3/16 x 3/16</td>
+        <td>1.75</td>
+        <td>8</td>
+        <td>14</td>
+      </tr>
+      <tr>
+        <td>leg</td>
+        <td>struts</td>
+        <td>3/16 x 3/16</td>
+        <td>1.875 (1 7/8)</td>
+        <td>8</td>
+        <td>15</td>
+      </tr>
+      <tr>
+        <td>leg</td>
+        <td>struts</td>
+        <td>3/16 x 3/16</td>
+        <td>2</td>
+        <td>8</td>
+        <td>16</td>
+      </tr>
+      <tr>
+        <td>leg</td>
+        <td>struts</td>
+        <td>3/16 x 3/16</td>
+        <td>2.25</td>
+        <td>8</td>
+        <td>18</td>
+      </tr>
+      <tr>
+        <td>leg</td>
+        <td>struts</td>
+        <td>3/16 x 3/16</td>
+        <td>2.75</td>
+        <td>8</td>
+        <td>22</td>
+      </tr>
+      <tr>
+        <td>leg</td>
+        <td>struts</td>
+        <td>3/16 x 3/16</td>
+        <td>3</td>
+        <td>8</td>
         <td>24</td>
-        <td dir="ltr">Add slop</td>
+      </tr>
+      <tr>
+        <td>leg</td>
+        <td>struts</td>
+        <td>3/16 x 3/16</td>
+        <td>3.25</td>
+        <td>8</td>
+        <td>26</td>
+      </tr>
+      <tr>
+        <td>leg</td>
+        <td>struts</td>
+        <td>3/16 x 3/16</td>
+        <td>3.25</td>
+        <td>8</td>
+        <td>26</td>
+      </tr>
+      <tr>
+        <td>torso</td>
+        <td>ornaments</td>
+        <td>3/16 x 3/16</td>
+        <td>3.5</td>
+        <td>10</td>
+        <td>35</td>
+      </tr>
+      <tr>
+        <td>torso</td>
+        <td>struts</td>
+        <td>3/16 x 3/16</td>
+        <td>4.75</td>
+        <td>2</td>
+        <td>9.5</td>
+      </tr>
+      <tr>
+        <td>torso</td>
+        <td>struts</td>
+        <td>3/16 x 3/16</td>
+        <td>4.75</td>
+        <td>2</td>
+        <td>9.5</td>
+      </tr>
+      <tr>
+        <td>torso</td>
+        <td>struts</td>
+        <td>3/16 x 3/16</td>
+        <td>4.6875 (4 11/16)</td>
+        <td>2</td>
+        <td>9.375</td>
+      </tr>
+      <tr>
+        <td>torso</td>
+        <td>struts</td>
+        <td>3/16 x 3/16</td>
+        <td>4.9375 (4 15/16)</td>
+        <td>2</td>
+        <td>9.875</td>
+      </tr>
+      <tr>
+        <td>torso</td>
+        <td>struts</td>
+        <td>3/16 x 3/16</td>
+        <td>5.5625 (5 9/16)</td>
+        <td>2</td>
+        <td>11.125</td>
+      </tr>
+      <tr>
+        <td>torso</td>
+        <td>struts</td>
+        <td>3/16 x 3/16</td>
+        <td>4</td>
+        <td>14</td>
+        <td>56</td>
+      </tr>
+      <tr class="font-bold">
+        <td>TOTAL</td>
+        <td></td>
+        <td>3/16 x 3/16</td>
+        <td></td>
+        <td></td>
+        <td>415</td>
+      </tr>
+      <tr>
+        <td>torso</td>
+        <td>waist</td>
+        <td>3/16 x 3/8</td>
+        <td>5.5</td>
+        <td>4</td>
+        <td>22</td>
+      </tr>
+      <tr>
+        <td>arm</td>
+        <td>bone</td>
+        <td>3/8 x 3/8</td>
+        <td>12</td>
+        <td>2</td>
+        <td>24 (+ slop)</td>
       </tr>
     </tbody>
   </table>

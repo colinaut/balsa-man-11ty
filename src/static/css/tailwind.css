@@ -74,3 +74,20 @@ body pre[class*="language-"] {
 main .float-logo {
   @apply mt-0 mb-base sm:w-4/12 sm:float-left sm:mr-base;
 }
+
+/* -------------------------------------------------------------------------- */
+/*                           Build table responsive                           */
+/* -------------------------------------------------------------------------- */
+
+.prose .build-table th {
+  @apply text-xs text-left p-0;
+}
+.prose .build-table td {
+  @apply p-0 pb-xs;
+}
+.prose .build-table tr {
+  @apply grid grid-cols-3 md:grid-cols-6 leading-tight gap-x-sm pt-xs;
+}
+.prose .build-table thead tr {
+  @apply pb-xs;
+}

@@ -1,8 +1,9 @@
 <footer class="w-full">
-    <div class="py-4 mx-auto text-center bg-black max-w-hero">
-        <small class="text-gray-300">Copyright ©
-            {{settings.name}}
-            {{ helpers.currentYear() }}. Made with ❤ by {{settings.author}}</a>
-        </small>
+    <div class="py-4 mx-auto bg-black max-w-hero">
+        <div class="flex flex-wrap justify-center text-sm text-gray-300 gap-x-lg gap-y-xs">
+            <span>Copyright &copy; {{settings.name}}
+            {{ helpers.currentYear() }}</span>
+            <span>Made with ❤ by {{settings.author}}</span>
+        </div>
     </div>
 </footer>

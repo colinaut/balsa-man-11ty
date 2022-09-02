@@ -23,7 +23,7 @@
         </div>
 
         <!--Toggle button (hidden on large screens)-->
-        <button @click="isOpen = !isOpen" type="button" class="block px-2 ml-auto sm:hidden text-primary-500 hover:text-primary-500 focus:outline-none focus:text-primary-500" :class="isOpen && 'transition transform-180'" aria-label="Menu">
+        <button x-cloak @click="isOpen = !isOpen" type="button" class="block px-2 ml-auto sm:hidden text-primary-500 hover:text-primary-500 focus:outline-none focus:text-primary-500" :class="isOpen && 'transition transform-180'" aria-label="Menu">
             <svg class="w-10 h-10 fill-current" xmlns="https://www.w3.org/2000/svg" viewbox="0 0 24 24">
                 <path x-show="isOpen" fill-rule="evenodd" clip-rule="evenodd" d="M18.278 16.864a1 1 0 0 1-1.414 1.414l-4.829-4.828-4.828 4.828a1 1 0 0 1-1.414-1.414l4.828-4.829-4.828-4.828a1 1 0 0 1 1.414-1.414l4.829 4.828 4.828-4.828a1 1 0 1 1 1.414 1.414l-4.828 4.829 4.828 4.828z"/>
                 <path x-show="!isOpen" fill-rule="evenodd" d="M4 5h16a1 1 0 0 1 0 2H4a1 1 0 1 1 0-2zm0 6h16a1 1 0 0 1 0 2H4a1 1 0 0 1 0-2zm0 6h16a1 1 0 0 1 0 2H4a1 1 0 0 1 0-2z"/>
@@ -31,8 +31,7 @@
         </button>
 
         <!--Menu-->
-        <div x-cloak class="flex-grow w-full col-span-2 text-center sm:flex lg:items-center lg:w-auto" :class="(isOpen) ? 'block shadow-3xl' : 'hidden'" @click.away="isOpen = false" x-show.transition="isOpen">
-
+        <div x-cloak class="flex-grow w-full col-span-2 text-center sm:flex lg:items-center lg:w-auto" :class="(isOpen) ? 'block shadow-3xl' : 'hidden'" >
             {% if navigation.items %}
 
                 <ul class="items-center justify-end flex-1 py-base sm:pt-0 list-reset lg:flex gap-base">

@@ -20,21 +20,20 @@ This above all is what I want to impart. It's not about the "Man" it's everythin
 
 ### Directions
 
-* Collect your supplies
-* Get a bunch of friends together for a tiny art build party! Some of whom can help with the Balsa Man, others can do their own thing.
-* Print out the [plans](/static/uploads/Balsa-Man-One-to-One-Scale-Plan.pdf) — scaled one-to-one so you can just measure! The plans flat 2D. Everything else you'll need to just figure out from photos from [past Balsa Man](/history) builds. That's how the Balsa Man KCrew built it every year so you can too!
-* Measure twice, cut once!
-* Build the Man, best in this order:
-  * Build the legs
-  * Build the arms
-  * Build the torso
-  * Build the head
-* Build the man base
-* Remember to take photos of the build!
-* Find a good location
-* Get everyone together for the main event!
-* Have fun!
-* Burn it!
+1. Collect your supplies
+2. Get a bunch of friends together for a tiny art build party! Some of whom can help with the Balsa Man, others can do their own thing.
+3. Print out the [plans](/static/uploads/Balsa-Man-One-to-One-Scale-Plan.pdf) — scaled one-to-one so you can just measure! The plans flat 2D. Everything else you'll need to just figure out from photos from [past Balsa Man](/history) builds. That's how the Balsa Man KCrew built it every year so you can too!
+4. Measure twice, cut once!
+5. Build the Man, best in this order:
+    1. Build the legs
+    2. Build the arms
+    3. Build the torso
+    4. Build the head
+6. Build the man base
+7. Remember to take photos of the build!
+8. Find a good location
+9. Get everyone together for the main event! Have fun!
+10. Burn it!
 
 ### Balsa Wood Supplies List
 

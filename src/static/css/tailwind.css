@@ -91,3 +91,7 @@ main .float-logo {
 .prose .build-table thead tr {
   @apply pb-xs;
 }
+
+[x-cloak] {
+  display: none;
+}

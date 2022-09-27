@@ -22,7 +22,7 @@ This above all is what I want to impart. It's not about the "Man" it's everythin
 
 1. Collect your supplies
 2. Get a bunch of friends together for a tiny art build party! Some of whom can help with the Balsa Man, others can do their own thing.
-3. Print out the [plans](/static/uploads/Balsa-Man-One-to-One-Scale-Plan.pdf) — scaled one-to-one so you can just measure! The plans flat 2D. Everything else you'll need to just figure out from photos from [past Balsa Man](/history) builds. That's how the Balsa Man KCrew built it every year so you can too!
+3. Print out the [plans](/static/uploads/Balsa-Man-One-to-One-Scale-Plan.pdf) — scaled one-to-one so you can just measure! And the [limb rings and ribs](/static/uploads/Balsa-Man-limb-rings-and-ribs.pdf) file can help cut out the harder curved parts, either with a scroll saw or laser cutter. NOTE: the ribs are always hard to position. They are sized up so when you cut them in half you can size the halves down as needed. Everything else you'll need to just figure out from photos from [past Balsa Man](/history) builds. That's how the Balsa Man KCrew built it every year so you can too!
 4. Measure twice, cut once!
 5. Build the Man, best in this order:
     1. Build the legs
